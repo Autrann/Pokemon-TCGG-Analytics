@@ -1,0 +1,788 @@
+[
+    {
+        "id": "B2a-001",
+        "localId": "001",
+        "name": "Sprigatito",
+        "image": null
+    },
+    {
+        "id": "B2a-002",
+        "localId": "002",
+        "name": "Floragato",
+        "image": null
+    },
+    {
+        "id": "B2a-003",
+        "localId": "003",
+        "name": "Meowscarada",
+        "image": null
+    },
+    {
+        "id": "B2a-004",
+        "localId": "004",
+        "name": "Tarountula",
+        "image": null
+    },
+    {
+        "id": "B2a-005",
+        "localId": "005",
+        "name": "Spidops",
+        "image": null
+    },
+    {
+        "id": "B2a-006",
+        "localId": "006",
+        "name": "Nymble",
+        "image": null
+    },
+    {
+        "id": "B2a-007",
+        "localId": "007",
+        "name": "Smoliv",
+        "image": null
+    },
+    {
+        "id": "B2a-008",
+        "localId": "008",
+        "name": "Dolliv",
+        "image": null
+    },
+    {
+        "id": "B2a-009",
+        "localId": "009",
+        "name": "Arboliva",
+        "image": null
+    },
+    {
+        "id": "B2a-010",
+        "localId": "010",
+        "name": "Bramblin",
+        "image": null
+    },
+    {
+        "id": "B2a-011",
+        "localId": "011",
+        "name": "Brambleghast",
+        "image": null
+    },
+    {
+        "id": "B2a-012",
+        "localId": "012",
+        "name": "Capsakid",
+        "image": null
+    },
+    {
+        "id": "B2a-013",
+        "localId": "013",
+        "name": "Scovillain",
+        "image": null
+    },
+    {
+        "id": "B2a-014",
+        "localId": "014",
+        "name": "Rellor",
+        "image": null
+    },
+    {
+        "id": "B2a-015",
+        "localId": "015",
+        "name": "Wo-Chien",
+        "image": null
+    },
+    {
+        "id": "B2a-016",
+        "localId": "016",
+        "name": "Fuecoco",
+        "image": null
+    },
+    {
+        "id": "B2a-017",
+        "localId": "017",
+        "name": "Crocalor",
+        "image": null
+    },
+    {
+        "id": "B2a-018",
+        "localId": "018",
+        "name": "Skeledirge",
+        "image": null
+    },
+    {
+        "id": "B2a-019",
+        "localId": "019",
+        "name": "Charcadet",
+        "image": null
+    },
+    {
+        "id": "B2a-020",
+        "localId": "020",
+        "name": "Armarouge",
+        "image": null
+    },
+    {
+        "id": "B2a-021",
+        "localId": "021",
+        "name": "Chi-Yu",
+        "image": null
+    },
+    {
+        "id": "B2a-022",
+        "localId": "022",
+        "name": "Quaxly",
+        "image": null
+    },
+    {
+        "id": "B2a-023",
+        "localId": "023",
+        "name": "Quaxwell",
+        "image": null
+    },
+    {
+        "id": "B2a-024",
+        "localId": "024",
+        "name": "Quaquaval",
+        "image": null
+    },
+    {
+        "id": "B2a-025",
+        "localId": "025",
+        "name": "Wiglett",
+        "image": null
+    },
+    {
+        "id": "B2a-026",
+        "localId": "026",
+        "name": "Wugtrio",
+        "image": null
+    },
+    {
+        "id": "B2a-027",
+        "localId": "027",
+        "name": "Finizen",
+        "image": null
+    },
+    {
+        "id": "B2a-028",
+        "localId": "028",
+        "name": "Palafin",
+        "image": null
+    },
+    {
+        "id": "B2a-029",
+        "localId": "029",
+        "name": "Cetoddle",
+        "image": null
+    },
+    {
+        "id": "B2a-030",
+        "localId": "030",
+        "name": "Cetitan",
+        "image": null
+    },
+    {
+        "id": "B2a-031",
+        "localId": "031",
+        "name": "Veluza",
+        "image": null
+    },
+    {
+        "id": "B2a-032",
+        "localId": "032",
+        "name": "Dondozo",
+        "image": null
+    },
+    {
+        "id": "B2a-033",
+        "localId": "033",
+        "name": "Tatsugiri",
+        "image": null
+    },
+    {
+        "id": "B2a-034",
+        "localId": "034",
+        "name": "Frigibax",
+        "image": null
+    },
+    {
+        "id": "B2a-035",
+        "localId": "035",
+        "name": "Arctibax",
+        "image": null
+    },
+    {
+        "id": "B2a-036",
+        "localId": "036",
+        "name": "Baxcalibur",
+        "image": null
+    },
+    {
+        "id": "B2a-037",
+        "localId": "037",
+        "name": "Chien-Pao",
+        "image": null
+    },
+    {
+        "id": "B2a-038",
+        "localId": "038",
+        "name": "Pawmi",
+        "image": null
+    },
+    {
+        "id": "B2a-039",
+        "localId": "039",
+        "name": "Pawmo",
+        "image": null
+    },
+    {
+        "id": "B2a-040",
+        "localId": "040",
+        "name": "Pawmot",
+        "image": null
+    },
+    {
+        "id": "B2a-041",
+        "localId": "041",
+        "name": "Tadbulb",
+        "image": null
+    },
+    {
+        "id": "B2a-042",
+        "localId": "042",
+        "name": "Bellibolt",
+        "image": null
+    },
+    {
+        "id": "B2a-043",
+        "localId": "043",
+        "name": "Wattrel",
+        "image": null
+    },
+    {
+        "id": "B2a-044",
+        "localId": "044",
+        "name": "Kilowattrel",
+        "image": null
+    },
+    {
+        "id": "B2a-045",
+        "localId": "045",
+        "name": "Miraidon",
+        "image": null
+    },
+    {
+        "id": "B2a-046",
+        "localId": "046",
+        "name": "Fidough",
+        "image": null
+    },
+    {
+        "id": "B2a-047",
+        "localId": "047",
+        "name": "Dachsbun",
+        "image": null
+    },
+    {
+        "id": "B2a-048",
+        "localId": "048",
+        "name": "Ceruledge",
+        "image": null
+    },
+    {
+        "id": "B2a-049",
+        "localId": "049",
+        "name": "Rabsca",
+        "image": null
+    },
+    {
+        "id": "B2a-050",
+        "localId": "050",
+        "name": "Flittle",
+        "image": null
+    },
+    {
+        "id": "B2a-051",
+        "localId": "051",
+        "name": "Espathra",
+        "image": null
+    },
+    {
+        "id": "B2a-052",
+        "localId": "052",
+        "name": "Greavard",
+        "image": null
+    },
+    {
+        "id": "B2a-053",
+        "localId": "053",
+        "name": "Houndstone",
+        "image": null
+    },
+    {
+        "id": "B2a-054",
+        "localId": "054",
+        "name": "Gimmighoul",
+        "image": null
+    },
+    {
+        "id": "B2a-055",
+        "localId": "055",
+        "name": "Mankey",
+        "image": null
+    },
+    {
+        "id": "B2a-056",
+        "localId": "056",
+        "name": "Primeape",
+        "image": null
+    },
+    {
+        "id": "B2a-057",
+        "localId": "057",
+        "name": "Annihilape",
+        "image": null
+    },
+    {
+        "id": "B2a-058",
+        "localId": "058",
+        "name": "Paldean Tauros",
+        "image": null
+    },
+    {
+        "id": "B2a-059",
+        "localId": "059",
+        "name": "Toedscool",
+        "image": null
+    },
+    {
+        "id": "B2a-060",
+        "localId": "060",
+        "name": "Toedscruel",
+        "image": null
+    },
+    {
+        "id": "B2a-061",
+        "localId": "061",
+        "name": "Klawf",
+        "image": null
+    },
+    {
+        "id": "B2a-062",
+        "localId": "062",
+        "name": "Ting-Lu",
+        "image": null
+    },
+    {
+        "id": "B2a-063",
+        "localId": "063",
+        "name": "Koraidon",
+        "image": null
+    },
+    {
+        "id": "B2a-064",
+        "localId": "064",
+        "name": "Paldean Wooper",
+        "image": null
+    },
+    {
+        "id": "B2a-065",
+        "localId": "065",
+        "name": "Paldean Clodsire",
+        "image": null
+    },
+    {
+        "id": "B2a-066",
+        "localId": "066",
+        "name": "Lokix",
+        "image": null
+    },
+    {
+        "id": "B2a-067",
+        "localId": "067",
+        "name": "Maschiff",
+        "image": null
+    },
+    {
+        "id": "B2a-068",
+        "localId": "068",
+        "name": "Mabosstiff",
+        "image": null
+    },
+    {
+        "id": "B2a-069",
+        "localId": "069",
+        "name": "Shroodle",
+        "image": null
+    },
+    {
+        "id": "B2a-070",
+        "localId": "070",
+        "name": "Grafaiai",
+        "image": null
+    },
+    {
+        "id": "B2a-071",
+        "localId": "071",
+        "name": "Bombirdier",
+        "image": null
+    },
+    {
+        "id": "B2a-072",
+        "localId": "072",
+        "name": "Tinkatink",
+        "image": null
+    },
+    {
+        "id": "B2a-073",
+        "localId": "073",
+        "name": "Tinkatuff",
+        "image": null
+    },
+    {
+        "id": "B2a-074",
+        "localId": "074",
+        "name": "Tinkaton",
+        "image": null
+    },
+    {
+        "id": "B2a-075",
+        "localId": "075",
+        "name": "Varoom",
+        "image": null
+    },
+    {
+        "id": "B2a-076",
+        "localId": "076",
+        "name": "Revavroom",
+        "image": null
+    },
+    {
+        "id": "B2a-077",
+        "localId": "077",
+        "name": "Orthworm",
+        "image": null
+    },
+    {
+        "id": "B2a-078",
+        "localId": "078",
+        "name": "Gholdengo",
+        "image": null
+    },
+    {
+        "id": "B2a-079",
+        "localId": "079",
+        "name": "Lechonk",
+        "image": null
+    },
+    {
+        "id": "B2a-080",
+        "localId": "080",
+        "name": "Oinkologne",
+        "image": null
+    },
+    {
+        "id": "B2a-081",
+        "localId": "081",
+        "name": "Tandemaus",
+        "image": null
+    },
+    {
+        "id": "B2a-082",
+        "localId": "082",
+        "name": "Maushold",
+        "image": null
+    },
+    {
+        "id": "B2a-083",
+        "localId": "083",
+        "name": "Squawkabilly",
+        "image": null
+    },
+    {
+        "id": "B2a-084",
+        "localId": "084",
+        "name": "Cyclizar",
+        "image": null
+    },
+    {
+        "id": "B2a-085",
+        "localId": "085",
+        "name": "Flamigo",
+        "image": null
+    },
+    {
+        "id": "B2a-086",
+        "localId": "086",
+        "name": "Electric Generator",
+        "image": null
+    },
+    {
+        "id": "B2a-087",
+        "localId": "087",
+        "name": "Big Air Balloon",
+        "image": null
+    },
+    {
+        "id": "B2a-088",
+        "localId": "088",
+        "name": "Team Star Grunt",
+        "image": null
+    },
+    {
+        "id": "B2a-089",
+        "localId": "089",
+        "name": "Iono",
+        "image": null
+    },
+    {
+        "id": "B2a-090",
+        "localId": "090",
+        "name": "Nemona",
+        "image": null
+    },
+    {
+        "id": "B2a-091",
+        "localId": "091",
+        "name": "Arven",
+        "image": null
+    },
+    {
+        "id": "B2a-092",
+        "localId": "092",
+        "name": "Penny",
+        "image": null
+    },
+    {
+        "id": "B2a-093",
+        "localId": "093",
+        "name": "Mesagoza",
+        "image": null
+    },
+    {
+        "id": "B2a-094",
+        "localId": "094",
+        "name": "Fuecoco",
+        "image": null
+    },
+    {
+        "id": "B2a-095",
+        "localId": "095",
+        "name": "Greavard",
+        "image": null
+    },
+    {
+        "id": "B2a-096",
+        "localId": "096",
+        "name": "Gimmighoul",
+        "image": null
+    },
+    {
+        "id": "B2a-097",
+        "localId": "097",
+        "name": "Paldean Wooper",
+        "image": null
+    },
+    {
+        "id": "B2a-098",
+        "localId": "098",
+        "name": "Orthworm",
+        "image": null
+    },
+    {
+        "id": "B2a-099",
+        "localId": "099",
+        "name": "Maushold",
+        "image": null
+    },
+    {
+        "id": "B2a-100",
+        "localId": "100",
+        "name": "Meowscarada",
+        "image": null
+    },
+    {
+        "id": "B2a-101",
+        "localId": "101",
+        "name": "Armarouge",
+        "image": null
+    },
+    {
+        "id": "B2a-102",
+        "localId": "102",
+        "name": "Chien-Pao",
+        "image": null
+    },
+    {
+        "id": "B2a-103",
+        "localId": "103",
+        "name": "Bellibolt",
+        "image": null
+    },
+    {
+        "id": "B2a-104",
+        "localId": "104",
+        "name": "Gholdengo",
+        "image": null
+    },
+    {
+        "id": "B2a-105",
+        "localId": "105",
+        "name": "Team Star Grunt",
+        "image": null
+    },
+    {
+        "id": "B2a-106",
+        "localId": "106",
+        "name": "Iono",
+        "image": null
+    },
+    {
+        "id": "B2a-107",
+        "localId": "107",
+        "name": "Nemona",
+        "image": null
+    },
+    {
+        "id": "B2a-108",
+        "localId": "108",
+        "name": "Arven",
+        "image": null
+    },
+    {
+        "id": "B2a-109",
+        "localId": "109",
+        "name": "Penny",
+        "image": null
+    },
+    {
+        "id": "B2a-110",
+        "localId": "110",
+        "name": "Meowscarada",
+        "image": null
+    },
+    {
+        "id": "B2a-111",
+        "localId": "111",
+        "name": "Armarouge",
+        "image": null
+    },
+    {
+        "id": "B2a-112",
+        "localId": "112",
+        "name": "Chien-Pao",
+        "image": null
+    },
+    {
+        "id": "B2a-113",
+        "localId": "113",
+        "name": "Bellibolt",
+        "image": null
+    },
+    {
+        "id": "B2a-114",
+        "localId": "114",
+        "name": "Gholdengo",
+        "image": null
+    },
+    {
+        "id": "B2a-115",
+        "localId": "115",
+        "name": "Arven",
+        "image": null
+    },
+    {
+        "id": "B2a-116",
+        "localId": "116",
+        "name": "Sprigatito",
+        "image": null
+    },
+    {
+        "id": "B2a-117",
+        "localId": "117",
+        "name": "Floragato",
+        "image": null
+    },
+    {
+        "id": "B2a-118",
+        "localId": "118",
+        "name": "Meowscarada",
+        "image": null
+    },
+    {
+        "id": "B2a-119",
+        "localId": "119",
+        "name": "Pawmi",
+        "image": null
+    },
+    {
+        "id": "B2a-120",
+        "localId": "120",
+        "name": "Pawmo",
+        "image": null
+    },
+    {
+        "id": "B2a-121",
+        "localId": "121",
+        "name": "Pawmot",
+        "image": null
+    },
+    {
+        "id": "B2a-122",
+        "localId": "122",
+        "name": "Gimmighoul",
+        "image": null
+    },
+    {
+        "id": "B2a-123",
+        "localId": "123",
+        "name": "Tinkatink",
+        "image": null
+    },
+    {
+        "id": "B2a-124",
+        "localId": "124",
+        "name": "Tinkatuff",
+        "image": null
+    },
+    {
+        "id": "B2a-125",
+        "localId": "125",
+        "name": "Gholdengo",
+        "image": null
+    },
+    {
+        "id": "B2a-126",
+        "localId": "126",
+        "name": "Entei",
+        "image": null
+    },
+    {
+        "id": "B2a-127",
+        "localId": "127",
+        "name": "Suicune",
+        "image": null
+    },
+    {
+        "id": "B2a-128",
+        "localId": "128",
+        "name": "Raikou",
+        "image": null
+    },
+    {
+        "id": "B2a-129",
+        "localId": "129",
+        "name": "Tinkaton",
+        "image": null
+    },
+    {
+        "id": "B2a-130",
+        "localId": "130",
+        "name": "Baxcalibur",
+        "image": null
+    },
+    {
+        "id": "B2a-131",
+        "localId": "131",
+        "name": "Electric Generator",
+        "image": null
+    }
+]
