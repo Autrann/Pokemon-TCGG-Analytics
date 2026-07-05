@@ -1,182 +1,1846 @@
 [
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            509
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Slash",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-1",
         "localId": "1",
         "name": "Purrloin",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "match",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            505
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Patrat",
+        "description": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Confuse Ray",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon is now Confused.",
+                "damage": null
+            },
+            {
+                "name": "Hyper Fang",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-2",
         "localId": "2",
         "name": "Watchog",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-3",
         "localId": "3",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "sui",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            572
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tail Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10x"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-4",
         "localId": "4",
         "name": "Minccino",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-5",
         "localId": "5",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-6",
         "localId": "6",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-7",
         "localId": "7",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-8",
         "localId": "8",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-9",
         "localId": "9",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-10",
         "localId": "10",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "During this turn, your Pokémon’s attacks do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-11",
         "localId": "11",
         "name": "PlusPower",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            504
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Bite",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-12",
         "localId": "12",
         "name": "Patrat",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            570
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Lunge",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-13",
         "localId": "13",
         "name": "Zorua",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            519
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-14",
         "localId": "14",
         "name": "Pidove",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            520
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Pidove",
+        "description": "It can return to its Trainer's location regardless of the distance separating them.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gust",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-15",
         "localId": "15",
         "name": "Tranquill",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kent Kanetsuna",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Put 2 basic Energy cards from your discard pile into your hand.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-16",
         "localId": "16",
         "name": "Energy Retrieval",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shin Nagasawa",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            571
+        ],
+        "hp": 100,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": "Zorua",
+        "description": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Darkness"
+                ],
+                "effect": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+                "damage": "20×"
+            },
+            {
+                "name": "Night Daze",
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-17",
         "localId": "17",
         "name": "Zoroark",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Reveal a Pokémon in your hand and put it on top of your deck. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-18",
         "localId": "18",
         "name": "Pokémon Communication",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "sui",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            572
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tail Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10x"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-19",
         "localId": "19",
         "name": "Minccino",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-20",
         "localId": "20",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            519
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Each follows its Trainer's orders as best it can, but they sometimes fail to understand complicated commands.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-21",
         "localId": "21",
         "name": "Pidove",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-22",
         "localId": "22",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            570
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Lunge",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-23",
         "localId": "23",
         "name": "Zorua",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-24",
         "localId": "24",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            509
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Slash",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-25",
         "localId": "25",
         "name": "Purrloin",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-26",
         "localId": "26",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for a basic Energy card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-27",
         "localId": "27",
         "name": "Energy Search",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-bw-z-28",
         "localId": "28",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            504
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Bite",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-29",
         "localId": "29",
         "name": "Patrat",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shin Nagasawa",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-bw-z",
+            "name": "BW trainer Kit (Zoroark)",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            571
+        ],
+        "hp": 100,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": "Zorua",
+        "description": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Darkness"
+                ],
+                "effect": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+                "damage": "20×"
+            },
+            {
+                "name": "Night Daze",
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-bw-z-30",
         "localId": "30",
         "name": "Zoroark",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

@@ -1,236 +1,2760 @@
 [
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            13
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "String Shot",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-1",
         "localId": "1",
         "name": "Weedle",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/1"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/1",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            511
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Collect",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Draw a card.",
+                "damage": null
+            },
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-2",
         "localId": "2",
         "name": "Pansage",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/2"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/2",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            650
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Vine Whip",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Seed Bomb",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-3",
         "localId": "3",
         "name": "Chespin",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/3"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/3",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            651
+        ],
+        "hp": 90,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Chespin",
+        "description": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Leech Seed",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "Heal 10 damage from this Pokémon.",
+                "damage": 20
+            },
+            {
+                "name": "Needle Arm",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-4",
         "localId": "4",
         "name": "Quilladin",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/4"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/4",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            652
+        ],
+        "hp": 150,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Quilladin",
+        "description": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Needle Arm",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            },
+            {
+                "name": "Tumbling Attack",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 40 more damage.",
+                "damage": "80+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-5",
         "localId": "5",
         "name": "Chesnaught",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/5"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/5",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            218
+        ],
+        "hp": 80,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Combustion",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-6",
         "localId": "6",
         "name": "Slugma",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/6"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/6",
+        "boosters": null
     },
     {
+        "illustrator": "Naoyo Kimura",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            513
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Collect",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Draw a card.",
+                "damage": null
+            },
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-7",
         "localId": "7",
         "name": "Pansear",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/7"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/7",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            653
+        ],
+        "hp": 60,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Fire"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Live Coal",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-8",
         "localId": "8",
         "name": "Fennekin",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/8"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/8",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            654
+        ],
+        "hp": 80,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Fennekin",
+        "description": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Firebreathing",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "20+"
+            },
+            {
+                "name": "Flame Tail",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-9",
         "localId": "9",
         "name": "Braixen",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/9"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/9",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            655
+        ],
+        "hp": 140,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Braixen",
+        "description": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Will-O-Wisp",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            },
+            {
+                "name": "Fire Blast",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Discard an Energy attached to this Pokémon.",
+                "damage": 120
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-10",
         "localId": "10",
         "name": "Delphox",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/10"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/10",
+        "boosters": null
     },
     {
+        "illustrator": "Shin Nagasawa",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            515
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Collect",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Draw a card.",
+                "damage": null
+            },
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-11",
         "localId": "11",
         "name": "Panpour",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/11"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/11",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            656
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pound",
+                "cost": [
+                    "Water"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Water Drip",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-12",
         "localId": "12",
         "name": "Froakie",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/12"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/12",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            657
+        ],
+        "hp": 80,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Froakie",
+        "description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Water Drip",
+                "cost": [
+                    "Water"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Aqua Wave",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 20 more damage for each heads.",
+                "damage": "40+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-13",
         "localId": "13",
         "name": "Frogadier",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/13"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/13",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            658
+        ],
+        "hp": 140,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Frogadier",
+        "description": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Mat Block",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+                "damage": 40
+            },
+            {
+                "name": "Aqua Edge",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-14",
         "localId": "14",
         "name": "Greninja",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/14"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/14",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            692
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Water Gun",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-15",
         "localId": "15",
         "name": "Clauncher",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/15"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/15",
+        "boosters": null
     },
     {
+        "illustrator": "Mizue",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            261
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bite",
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-16",
         "localId": "16",
         "name": "Poochyena",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/16"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/16",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            262
+        ],
+        "hp": 90,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": "Poochyena",
+        "description": "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Hard Bite",
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "40+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-17",
         "localId": "17",
         "name": "Mightyena",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/17"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/17",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            686
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Peck",
+                "cost": [
+                    "Darkness"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-18",
         "localId": "18",
         "name": "Inkay",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/18"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/18",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            624
+        ],
+        "hp": 60,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pierce",
+                "cost": [
+                    "Metal"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Cut",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-19",
         "localId": "19",
         "name": "Pawniard",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/19"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/19",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            625
+        ],
+        "hp": 90,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": "Pawniard",
+        "description": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Wicked Jab",
+                "cost": [
+                    "Metal"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Metal Claw",
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-20",
         "localId": "20",
         "name": "Bisharp",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/20"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/20",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            679
+        ],
+        "hp": 60,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Continuous Slash",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+                "damage": "30x"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-21",
         "localId": "21",
         "name": "Honedge",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/21"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/21",
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            209
+        ],
+        "hp": 70,
+        "types": [
+            "Fairy"
+        ],
+        "evolveFrom": null,
+        "description": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-22",
         "localId": "22",
         "name": "Snubbull",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/22"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/22",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            210
+        ],
+        "hp": 100,
+        "types": [
+            "Fairy"
+        ],
+        "evolveFrom": "Snubbull",
+        "description": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            },
+            {
+                "name": "Double Stomp",
+                "cost": [
+                    "Fairy",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 20 more damage for each heads.",
+                "damage": "50+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-23",
         "localId": "23",
         "name": "Granbull",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/23"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/23",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            684
+        ],
+        "hp": 60,
+        "types": [
+            "Fairy"
+        ],
+        "evolveFrom": null,
+        "description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Draining Kiss",
+                "cost": [
+                    "Fairy"
+                ],
+                "effect": "Heal 10 damage from this Pokémon.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-24",
         "localId": "24",
         "name": "Swirlix",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/24"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/24",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            83
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Slash",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-25",
         "localId": "25",
         "name": "Farfetch'd",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/25"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/25",
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            143
+        ],
+        "hp": 120,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rock Smash",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Strength",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-26",
         "localId": "26",
         "name": "Snorlax",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/26"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/26",
+        "boosters": null
     },
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            241
+        ],
+        "hp": 100,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "If it is around babies, it milk it produces contains much more nutrition than usual.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sitdown Splash",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "50+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-27",
         "localId": "27",
         "name": "Miltank",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/27"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/27",
+        "boosters": null
     },
     {
+        "illustrator": "Shin Nagasawa",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            300
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Jump On",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-28",
         "localId": "28",
         "name": "Skitty",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/28"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/28",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            399
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rollout",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-29",
         "localId": "29",
         "name": "Bidoof",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/29"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/29",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            659
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "They use their large ears to dig burrows. They will dig the whole night through.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-30",
         "localId": "30",
         "name": "Bunnelby",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/30"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/30",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            661
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Razor Wind",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-31",
         "localId": "31",
         "name": "Fletchling",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/31"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/31",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            676
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tight Jaw",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Sharp Fang",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-32",
         "localId": "32",
         "name": "Furfrou",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/32"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/32",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": [
+            676
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tight Jaw",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Sharp Fang",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-33",
         "localId": "33",
         "name": "Furfrou",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/33"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/33",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-34",
         "localId": "34",
         "name": "Crushing Hammer",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/34"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/34",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-35",
         "localId": "35",
         "name": "Poké Ball",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/35"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/35",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-36",
         "localId": "36",
         "name": "Pokémon Catcher",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/36"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/36",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Heal 30 damage from 1 of your Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-37",
         "localId": "37",
         "name": "Potion",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/37"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/37",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-38",
         "localId": "38",
         "name": "Switch",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/38"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/38",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xy0",
+            "name": "Kalos Starter Set",
+            "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/xy0/symbol",
+            "cardCount": {
+                "total": 39,
+                "official": 39
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Draw 3 cards.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xy0-39",
         "localId": "39",
         "name": "Tierno",
-        "image": "https://assets.tcgdex.net/en/xy/xy0/39"
+        "image": "https://assets.tcgdex.net/en/xy/xy0/39",
+        "boosters": null
     }
 ]

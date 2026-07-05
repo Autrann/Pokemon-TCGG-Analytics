@@ -1,206 +1,2268 @@
 [
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            322
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "No matter how heavy the cargo, we can transport it to our destination with ease, thanks to Numel.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Ember",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Discard an Energy attached to this Pokémon.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-1",
         "localId": "1",
         "name": "Team Magma's Numel",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/1"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/1",
+        "boosters": null
     },
     {
+        "illustrator": "Shin Nagasawa",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            323
+        ],
+        "hp": 110,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Team Magma's Numel",
+        "description": "Camerupt, with its strength against fire, played a big role in rescuing team members.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Burning Draft",
+                "effect": "Once during your turn (before your attack), you may attach a {F} or {R} Energy card from your discard pile to this Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Flame Ball",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-2",
         "localId": "2",
         "name": "Team Magma's Camerupt",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/2"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/2",
+        "boosters": null
     },
     {
+        "illustrator": "Sanosuke Sakuma",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            363
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "Spheal's Water Gun can put out any fire. Flames used by opponents have no effect!",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Water Gun",
+                "cost": [
+                    "Water"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-3",
         "localId": "3",
         "name": "Team Aqua's Spheal",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/3"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/3",
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            364
+        ],
+        "hp": 90,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Team Aqua's Spheal",
+        "description": "It provides support by making paths of ice. It can win any battle as long as it's on ice.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Splatter",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            },
+            {
+                "name": "Hail Storm",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If your opponent's Active Pokémon is a Team Magma Pokémon, this attack does 60 more damage.",
+                "damage": "60＋"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-4",
         "localId": "4",
         "name": "Team Aqua's Sealeo",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/4"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/4",
+        "boosters": null
     },
     {
+        "illustrator": "Hitoshi Ariga",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            365
+        ],
+        "hp": 140,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Team Aqua's Sealeo",
+        "description": "It's good at attacks that freeze opponents with a powerful cold snap. Then, it pulverizes a frozen foe with its sharp tusks!",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Power Blow",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "This attack does 30 damage times the amount of Energy attached to this Pokémon.",
+                "damage": "30×"
+            },
+            {
+                "name": "Dual Blizzard",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Discard 2 {W} Energy attached to this Pokémon. This attack does 80 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-5",
         "localId": "5",
         "name": "Team Aqua's Walrein",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/5"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/5",
+        "boosters": null
     },
     {
+        "illustrator": "nagimiso",
+        "rarity": "Ultra Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            382
+        ],
+        "hp": 190,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": "EX",
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Power Saver",
+                "effect": "If there are 4 or fewer Team Aqua Pokémon in play, this Pokémon can't attack."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Aqua Impact",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "This attack does 20 more damage for each {C} in your opponent's Active Pokémon's Retreat Cost.",
+                "damage": "80＋"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-6",
         "localId": "6",
         "name": "Team Aqua's Kyogre EX",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/6"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/6",
+        "boosters": null
     },
     {
+        "illustrator": "kawayoo",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            88
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "Its flexible body, which allows it to squeeze into any cracks, comes in handy when invading enemy hideouts.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pound",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Mud-Slap",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-7",
         "localId": "7",
         "name": "Team Aqua's Grimer",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/7"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/7",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            89
+        ],
+        "hp": 110,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": "Team Aqua's Grimer",
+        "description": "It immobilizes its opponents by wrapping them in its huge, poisonous body. It'll smoosh you, too!",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Sludge Festival",
+                "effect": "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is {C} more."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Pester",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",
+                "damage": "60＋"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-8",
         "localId": "8",
         "name": "Team Aqua's Muk",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/8"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/8",
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            336
+        ],
+        "hp": 90,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "Seviper's tail is a sharp blade. It can even poison you!",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Venomous Fang",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+                "damage": 10
+            },
+            {
+                "name": "Venom Tail",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If your opponent's Active Pokémon is affected by a Special Condition, discard an Energy attached to that Pokémon.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-9",
         "localId": "9",
         "name": "Team Aqua's Seviper",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/9"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/9",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            343
+        ],
+        "hp": 50,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "They all cry out at once to let us know when they spot an enemy. It really helps out!",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Telekinesis",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "This attack does 20 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-10",
         "localId": "10",
         "name": "Team Magma's Baltoy",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/10"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/10",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            344
+        ],
+        "hp": 90,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": "Team Magma's Baltoy",
+        "description": "Claydol's beam can seize opponents and keep them from moving. Long-range attacks are its specialty!",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Magma Switch",
+                "effect": "Once during your turn (before your attack), you may move a basic Energy from 1 of your Pokémon to 1 of your Team Magma Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Power Beam",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-11",
         "localId": "11",
         "name": "Team Magma's Claydol",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/11"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/11",
+        "boosters": null
     },
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            304
+        ],
+        "hp": 60,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": "Aron, which even devour metal, can eat and destroy enemy ships in an instant.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gnaw",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-12",
         "localId": "12",
         "name": "Team Magma's Aron",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/12"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/12",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            305
+        ],
+        "hp": 90,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Team Magma's Aron",
+        "description": "When Lairon uses Take Down, the impact from its solid body is enough to destroy concrete!",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gnaw",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            },
+            {
+                "name": "Take Down",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "This Pokémon does 10 damage to itself.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-13",
         "localId": "13",
         "name": "Team Magma's Lairon",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/13"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/13",
+        "boosters": null
     },
     {
+        "illustrator": "TOKIYA",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            306
+        ],
+        "hp": 140,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Team Magma's Lairon",
+        "description": "Aggron's metal horns can smash through any defenses, no matter how strong!",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rock Stomp",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Discard as many {F} Energy attached to your Pokémon as you like. This attack does 40 damage times the amount of {F} Energy you discarded.",
+                "damage": "40×"
+            },
+            {
+                "name": "Boulder Storm",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 120
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-14",
         "localId": "14",
         "name": "Team Magma's Aggron",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/14"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/14",
+        "boosters": null
     },
     {
+        "illustrator": "nagimiso",
+        "rarity": "Ultra Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            383
+        ],
+        "hp": 190,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": "EX",
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Power Saver",
+                "effect": "If there are 4 or fewer Team Magma Pokémon in play, this Pokémon can't attack."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Magma Quake",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.",
+                "damage": "80＋"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-15",
         "localId": "15",
         "name": "Team Magma's Groudon EX",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/15"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/15",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            261
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "Poochyena can easily detect invading foes with its acute sense of smell. It's an excellent lookout!",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Roar",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+                "damage": null
+            },
+            {
+                "name": "Bite",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-16",
         "localId": "16",
         "name": "Team Aqua's Poochyena",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/16"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/16",
+        "boosters": null
     },
     {
+        "illustrator": "TOKIYA",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            261
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "Poochyena's nose can identify any scent. It's very useful for reconnaissance.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Infiltrate",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Your opponent reveals his or her hand.",
+                "damage": null
+            },
+            {
+                "name": "Bite",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-17",
         "localId": "17",
         "name": "Team Magma's Poochyena",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/17"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/17",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            262
+        ],
+        "hp": 100,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": "Team Aqua's Poochyena",
+        "description": "Thanks to Mightyena's outstanding leadership, it's very good at combination attacks that can leave a foe helpless.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Teampact",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin for each Team Aqua Pokémon you have in play. This attack does 30 damage times the number of heads.",
+                "damage": "30×"
+            },
+            {
+                "name": "Crunch",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-18",
         "localId": "18",
         "name": "Team Aqua's Mightyena",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/18"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/18",
+        "boosters": null
     },
     {
+        "illustrator": "Hitoshi Ariga",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            262
+        ],
+        "hp": 100,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": "Team Magma's Poochyena",
+        "description": "This Pokémon is loyal to its master. It will protect its partner to the end, no matter what.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bite",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            },
+            {
+                "name": "Hostile Fang",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "If your opponent's Active Pokémon is a Team Aqua Pokémon, this attack does 40 more damage.",
+                "damage": "80＋"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-19",
         "localId": "19",
         "name": "Team Magma's Mightyena",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/19"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/19",
+        "boosters": null
     },
     {
+        "illustrator": "Sanosuke Sakuma",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            318
+        ],
+        "hp": 50,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "You can't keep up with its movements underwater, can you? If you get caught in this whirlpool, there'll be no escape.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fin Smack",
+                "cost": [
+                    "Darkness"
+                ],
+                "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-20",
         "localId": "20",
         "name": "Team Aqua's Carvanha",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/20"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/20",
+        "boosters": null
     },
     {
+        "illustrator": "kawayoo",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            319
+        ],
+        "hp": 90,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": "Team Aqua's Carvanha",
+        "description": "It boasts fangs so powerful that they knock opponents out in one shot! Enemies that slip up will be taken down without fail!",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Aqua Search",
+                "effect": "Once during your turn (before your attack), you may search your deck for a Team Aqua Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Sharp Fang",
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-21",
         "localId": "21",
         "name": "Team Aqua's Sharpedo",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/21"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/21",
+        "boosters": null
     },
     {
+        "illustrator": "Shin Nagasawa",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": [
+            335
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Can you handle the formation attack of the fearless Zangoose?",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Call for Family",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for up to 2 Basic Team Magma Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Team Play",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "This attack does 20 damage times the number of Team Magma Pokémon on your Bench.",
+                "damage": "20×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-22",
         "localId": "22",
         "name": "Team Magma's Zangoose",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/22"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/22",
+        "boosters": null
     },
     {
+        "illustrator": "Toyste Beach",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Aqua Diffuser",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Your opponent's Active Pokémon is now Confused and Poisoned.",
+                "damage": null
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "The Team Aqua Pokémon this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
+        "trainerType": "Tool",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-23",
         "localId": "23",
         "name": "Aqua Diffuser",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/23"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/23",
+        "boosters": null
     },
     {
+        "illustrator": "Toyste Beach",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Magma Pointer",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "The Team Magma Pokémon this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
+        "trainerType": "Tool",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-24",
         "localId": "24",
         "name": "Magma Pointer",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/24"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/24",
+        "boosters": null
     },
     {
+        "illustrator": "GAME FREAK inc.",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Attach a basic Energy card from your discard pile to your Active Team Aqua Pokémon.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-25",
         "localId": "25",
         "name": "Team Aqua Admin",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/25"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/25",
+        "boosters": null
     },
     {
+        "illustrator": "GAME FREAK inc.",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Discard a card from your hand. (If you can't discard a card, you can't play this card.) Draw 3 cards. If you discarded a Team Aqua Pokémon, draw 1 more card.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-26",
         "localId": "26",
         "name": "Team Aqua Grunt",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/26"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/26",
+        "boosters": null
     },
     {
+        "illustrator": "Toyste Beach",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for a Basic Team Aqua Pokémon and a basic {W} Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-27",
         "localId": "27",
         "name": "Team Aqua's Great Ball",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/27"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/27",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is {C} more.",
+        "trainerType": "Stadium",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-28",
         "localId": "28",
         "name": "Team Aqua's Secret Base",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/28"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/28",
+        "boosters": null
     },
     {
+        "illustrator": "GAME FREAK inc.",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Put up to 3 Team Magma Pokémon from your discard pile into your hand.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-29",
         "localId": "29",
         "name": "Team Magma Admin",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/29"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/29",
+        "boosters": null
     },
     {
+        "illustrator": "GAME FREAK inc.",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Discard a card from your hand. (If you can't discard a card, you can't play this card.) Draw 3 cards. If you discarded a Team Magma Pokémon, draw 1 more card.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-30",
         "localId": "30",
         "name": "Team Magma Grunt",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/30"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/30",
+        "boosters": null
     },
     {
+        "illustrator": "Toyste Beach",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for a Basic Team Magma Pokémon and a basic {F} Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-31",
         "localId": "31",
         "name": "Team Magma's Great Ball",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/31"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/31",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Whenever any player puts a Basic Pokémon (except for Team Magma Pokémon) from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon.",
+        "trainerType": "Stadium",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-32",
         "localId": "32",
         "name": "Team Magma's Secret Base",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/32"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/32",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Uncommon",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "This card can only be attached to Team Aqua Pokémon. Discard this card at the end of the turn you attached it.\n\nThis card provides {W}{W} Energy only while it is attached to a Team Aqua Pokémon.\n\n(If this card is attached to anything other than a Team Aqua Pokémon, discard this card.)",
+        "trainerType": null,
+        "energyType": "Special",
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-33",
         "localId": "33",
         "name": "Double Aqua Energy",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/33"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/33",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Uncommon",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dc1",
+            "name": "Double Crisis",
+            "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/xy/dc1/symbol",
+            "cardCount": {
+                "total": 34,
+                "official": 34
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "This card can only be attached to Team Magma Pokémon. Discard this card at the end of the turn you attached it.\n\nThis card provides {F}{F} Energy only while it is attached to a Team Magma Pokémon.\n\n(If this card is attached to anything other than a Team Magma Pokémon, discard this card.)",
+        "trainerType": null,
+        "energyType": "Special",
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dc1-34",
         "localId": "34",
         "name": "Double Magma Energy",
-        "image": "https://assets.tcgdex.net/en/xy/dc1/34"
+        "image": "https://assets.tcgdex.net/en/xy/dc1/34",
+        "boosters": null
     }
 ]

@@ -1,182 +1,1631 @@
 [
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            325
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-1",
         "localId": "1",
         "name": "Spoink",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            711
+        ],
+        "hp": 100,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": "Pumpkaboo",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-2",
         "localId": "2",
         "name": "Gourgeist",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            24
+        ],
+        "hp": 90,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": "Ekans",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-3",
         "localId": "3",
         "name": "Arbok",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            659
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-4",
         "localId": "4",
         "name": "Bunnelby",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-5",
         "localId": "5",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-6",
         "localId": "6",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-7",
         "localId": "7",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-8",
         "localId": "8",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-9",
         "localId": "9",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-10",
         "localId": "10",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            710
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-11",
         "localId": "11",
         "name": "Pumpkaboo",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            714
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-12",
         "localId": "12",
         "name": "Noibat",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            715
+        ],
+        "hp": 110,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Noibat",
+        "description": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Second Bite",
+                "cost": null,
+                "effect": "This attack does 10 more damage for each damage counter on your opponent’s Active Pokémon.",
+                "damage": "20+"
+            },
+            {
+                "name": "Sonic Bazooka",
+                "cost": null,
+                "effect": "Flip a coin. If heads, this attack does 30 more damage and your opponent’s Active Pokémon is now Confused.",
+                "damage": "60+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-13",
         "localId": "13",
         "name": "Noivern",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Flip a coin. If heads, switch 1 of your opponent’s Benched Pokémon with his or her Active Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-14",
         "localId": "14",
         "name": "Pokémon Catcher",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Heal 30 damage from 1 of your Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-15",
         "localId": "15",
         "name": "Potion",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            23
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-16",
         "localId": "16",
         "name": "Ekans",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-17",
         "localId": "17",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            710
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-18",
         "localId": "18",
         "name": "Pumpkaboo",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-19",
         "localId": "19",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            676
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-20",
         "localId": "20",
         "name": "Furfrou",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-21",
         "localId": "21",
         "name": "Poké Ball",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-22",
         "localId": "22",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            714
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-23",
         "localId": "23",
         "name": "Noibat",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-24",
         "localId": "24",
         "name": "Professor’s Letter",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-25",
         "localId": "25",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-26",
         "localId": "26",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Heal 30 damage from 1 of your Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-27",
         "localId": "27",
         "name": "Potion",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-n-28",
         "localId": "28",
         "name": "Darkness Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-29",
         "localId": "29",
         "name": "Switch",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-n",
+            "name": "XY trainer Kit (Noivern)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            715
+        ],
+        "hp": 110,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Noibat",
+        "description": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Second Bite",
+                "cost": null,
+                "effect": "This attack does 10 more damage for each damage counter on your opponent’s Active Pokémon.",
+                "damage": "20+"
+            },
+            {
+                "name": "Sonic Bazooka",
+                "cost": null,
+                "effect": "Flip a coin. If heads, this attack does 30 more damage and your opponent’s Active Pokémon is now Confused.",
+                "damage": "60+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-n-30",
         "localId": "30",
         "name": "Noivern",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

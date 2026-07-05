@@ -1,74 +1,728 @@
 [
     {
+        "illustrator": "kirisAki",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            37
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Roar",
+                "cost": null,
+                "effect": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+                "damage": null
+            },
+            {
+                "name": "Gnaw",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-1",
         "localId": "1",
         "name": "Vulpix",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "sui",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            255
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Ember",
+                "cost": null,
+                "effect": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-2",
         "localId": "2",
         "name": "Torchic",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            653
+        ],
+        "hp": 50,
+        "types": null,
+        "evolveFrom": null,
+        "description": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Will-O-Wisp",
+                "cost": null,
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-3",
         "localId": "3",
         "name": "Fennekin",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            129
+        ],
+        "hp": 30,
+        "types": null,
+        "evolveFrom": null,
+        "description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Epic Splash",
+                "cost": null,
+                "effect": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-4",
         "localId": "4",
         "name": "Magikarp",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            158
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "It is small but rough and tough. It won’t hesitate to take a bite out of anything that moves.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fury Strikes",
+                "cost": null,
+                "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-5",
         "localId": "5",
         "name": "Totodile",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tail Whip",
+                "cost": null,
+                "effect": "Flip a coin. If heads, the Defending Pokémon can’t attack during your opponent’s next turn.",
+                "damage": null
+            },
+            {
+                "name": "Electro Ball",
+                "cost": null,
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-6",
         "localId": "6",
         "name": "Pikachu",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Tomokazu Komiya",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            559
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling it skin up to its neck.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Corkscrew Punch",
+                "cost": null,
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-7",
         "localId": "7",
         "name": "Scraggy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kanako Eo",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            39
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rollout",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Heartfelt Song",
+                "cost": null,
+                "effect": "Discard a Darkness Energy attached to your opponent’s Active Pokémon.",
+                "damage": null
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-8",
         "localId": "8",
         "name": "Jigglypuff",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "HiRON",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            175
+        ],
+        "hp": 40,
+        "types": null,
+        "evolveFrom": null,
+        "description": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sweet Kiss",
+                "cost": null,
+                "effect": "Your opponent draws a card.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-9",
         "localId": "9",
         "name": "Togepi",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            702
+        ],
+        "hp": 70,
+        "types": null,
+        "evolveFrom": null,
+        "description": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Nuzzle",
+                "cost": null,
+                "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+                "damage": null
+            },
+            {
+                "name": "Spiral Drain",
+                "cost": null,
+                "effect": "Heal 20 damage from this Pokémon.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-10",
         "localId": "10",
         "name": "Dedenne",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kanako Eo",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            52
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Act Tough",
+                "cost": null,
+                "effect": "If this Pokémon has any Darkness Energy attached to it, this attack does 20 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-11",
         "localId": "11",
         "name": "Meowth",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2016xy",
+            "name": "McDonald's Collection 2016",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            133
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Lunge",
+                "cost": null,
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2016xy-12",
         "localId": "12",
         "name": "Eevee",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

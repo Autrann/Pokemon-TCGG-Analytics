@@ -1,104 +1,1302 @@
 [
     {
+        "illustrator": "Kazuyuki Kano",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            411
+        ],
+        "hp": 130,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": "Shieldon",
+        "description": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Protective Wall",
+                "effect": "Prevent all damage done to your Benched Pokémon by your opponent’s attacks."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Anger Revenge",
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": "If Bastiodon was damaged by an attack during your opponent’s last turn, this attack does 40 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+40"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-1",
         "localId": "1",
         "name": "Bastiodon",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/1",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            448
+        ],
+        "hp": 90,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Riolu",
+        "description": "It has the ability to sense the auras of all things. It understands human speech.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Feint",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "This attack’s damage isn’t affected by Resistance.",
+                "damage": 30
+            },
+            {
+                "name": "Aura Sphere",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "effect": "Does 20 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-2",
         "localId": "2",
         "name": "Lucario",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/2",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            490
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Call for Family",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Aqua Ring",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "effect": "Switch Manaphy with 1 of your Benched Pokémon.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-3",
         "localId": "3",
         "name": "Manaphy",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/3",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            417
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Minor Errand-Running",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Thunder Jolt",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": "Flip a coin. If tails, Pachirisu does 10 damage to itself.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-4",
         "localId": "4",
         "name": "Pachirisu",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/4",
+        "boosters": null
     },
     {
+        "illustrator": "Kazuyuki Kano",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            409
+        ],
+        "hp": 120,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Cherrim",
+        "description": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Assurance",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "As long as the Defending Pokémon’s remaining HP is 60 or less, this attack’s base damage is 60 instead of 30.",
+                "damage": 30
+            },
+            {
+                "name": "Hasty Headbutt",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "effect": "Rampardos does 20 damage to itself. This attack’s damage isn’t affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+                "damage": 100
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "+30"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-5",
         "localId": "5",
         "name": "Rampardos",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/5",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            425
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Blowing Wind",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attached to it on top of your deck. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Ominous Wind",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused and can’t retreat during your opponent’s next turn.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-6",
         "localId": "6",
         "name": "Drifloon",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/6",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            443
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Surprise Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-7",
         "localId": "7",
         "name": "Gible",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/7",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            447
+        ],
+        "hp": 60,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Wild Kick",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-8",
         "localId": "8",
         "name": "Riolu",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/8",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Spark",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to 2 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-9",
         "localId": "9",
         "name": "Pikachu",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/9",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            397
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Starly",
+        "description": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Whirlwind",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+                "damage": 20
+            },
+            {
+                "name": "Clutch",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon can’t retreat during your opponent’s next turn.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-10",
         "localId": "10",
         "name": "Staravia",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/10",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            399
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Amnesia",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Choose 1 of the Defending Pokémon’s attacks. That Pokémon can’t use that attack during your opponent’s next turn.",
+                "damage": null
+            },
+            {
+                "name": "Scavenge",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your discard pile for a Trainer card, show it to your opponent, and put it into your hand.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-11",
         "localId": "11",
         "name": "Bidoof",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/11",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            427
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "It slams foes by sharply uncoiling is rolled ears. It stings enough to make a grown-up cry in pain.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Splash",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Jump Kick",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-12",
         "localId": "12",
         "name": "Buneary",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/12",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            420
+        ],
+        "hp": 50,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sleep Powder",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "The Defending Pokémon is now Asleep.",
+                "damage": null
+            },
+            {
+                "name": "Leech Seed",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Cherubi.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-13",
         "localId": "13",
         "name": "Cherubi",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            390
+        ],
+        "hp": 50,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "It agilely scales cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Ember",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-14",
         "localId": "14",
         "name": "Chimchar",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/14",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            393
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Peck",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Water Splash",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-15",
         "localId": "15",
         "name": "Piplup",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/15",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            396
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "They flock in great numbers. Though small, they flap their wings with great power.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gust",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-16",
         "localId": "16",
         "name": "Starly",
-        "image": "https://assets.tcgdex.net/en/pop/pop6/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop6/16",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop6",
+            "name": "POP Series 6",
+            "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop6/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            387
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Razor Leaf",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop6-17",
         "localId": "17",
         "name": "Turtwig",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

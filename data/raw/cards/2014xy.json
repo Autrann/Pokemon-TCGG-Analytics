@@ -1,74 +1,886 @@
 [
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            13
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "String Shot",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "damage": "10"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-1",
         "localId": "1",
         "name": "Weedle",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            650
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Vine Whip",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": null,
+                "damage": "10"
+            },
+            {
+                "name": "Seed Bomb",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-2",
         "localId": "2",
         "name": "Chespin",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            653
+        ],
+        "hp": 60,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Fire"
+                ],
+                "effect": null,
+                "damage": "10"
+            },
+            {
+                "name": "Live Coal",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": [],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-3",
         "localId": "3",
         "name": "Fennekin",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            656
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pound",
+                "cost": [
+                    "Water"
+                ],
+                "effect": null,
+                "damage": "10"
+            },
+            {
+                "name": "Water Drip",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": [],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-4",
         "localId": "4",
         "name": "Froakie",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "MAHOU",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 60,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Nuzzle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "damage": null
+            },
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-5",
         "localId": "5",
         "name": "Pikachu",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            686
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Peck",
+                "cost": [
+                    "Darkness"
+                ],
+                "effect": null,
+                "damage": "10"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-6",
         "localId": "6",
         "name": "Inkay",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            679
+        ],
+        "hp": 60,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Continuous Slice",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+                "damage": "30×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-7",
         "localId": "7",
         "name": "Honedge",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            209
+        ],
+        "hp": 70,
+        "types": [
+            "Fairy"
+        ],
+        "evolveFrom": null,
+        "description": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-8",
         "localId": "8",
         "name": "Snubbull",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            684
+        ],
+        "hp": 60,
+        "types": [
+            "Fairy"
+        ],
+        "evolveFrom": null,
+        "description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Draining Kiss",
+                "cost": [
+                    "Fairy"
+                ],
+                "effect": "Heal 10 damage from this Pokémon.",
+                "damage": "10"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-9",
         "localId": "9",
         "name": "Swirlix",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            659
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "They use their large ears to dig burrows. They will dig the whole night through.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-10",
         "localId": "10",
         "name": "Bunnelby",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            661
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Razor Wind",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": "20"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-11",
         "localId": "11",
         "name": "Fletchling",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2014xy",
+            "name": "McDonald's Collection 2014",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            676
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tight Jaw",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "damage": "20"
+            },
+            {
+                "name": "Sharp Fang",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "50"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2014xy-12",
         "localId": "12",
         "name": "Furfrou",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

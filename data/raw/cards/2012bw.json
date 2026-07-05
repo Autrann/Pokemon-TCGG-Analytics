@@ -1,74 +1,772 @@
 [
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            496
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Wrap",
+                "cost": null,
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Tackle",
+                "cost": null,
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-1",
         "localId": "1",
         "name": "Servine",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            511
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Collect",
+                "cost": null,
+                "effect": "Draw a card.",
+                "damage": null
+            },
+            {
+                "name": "Scratch",
+                "cost": null,
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-2",
         "localId": "2",
         "name": "Pansage",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "MAHOU",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            557
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "The Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Withdraw",
+                "cost": null,
+                "effect": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent’s next turn.",
+                "damage": null
+            },
+            {
+                "name": "Slash",
+                "cost": null,
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-3",
         "localId": "3",
         "name": "Dwebble",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            499
+        ],
+        "hp": 100,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Flame Charge",
+                "cost": null,
+                "effect": "Search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Heat Crash",
+                "cost": null,
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-4",
         "localId": "4",
         "name": "Pignite",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            502
+        ],
+        "hp": 90,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Water Gun",
+                "cost": null,
+                "effect": null,
+                "damage": 30
+            },
+            {
+                "name": "Razor Shell",
+                "cost": null,
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "40+"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-5",
         "localId": "5",
         "name": "Dewott",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            587
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "The energy made in its cheeks’ electric pouches is stored inside its membranes and released while it is gliding.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Thundershock",
+                "cost": null,
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            },
+            {
+                "name": "Acrobatics",
+                "cost": null,
+                "effect": "Flip 2 coins. This attack does 20 more damage for each heads.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-6",
         "localId": "6",
         "name": "Emolga",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            527
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Psy Bolt",
+                "cost": null,
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-7",
         "localId": "7",
         "name": "Woobat",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "match",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            529
+        ],
+        "hp": 70,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Hone Claws",
+                "cost": null,
+                "effect": "During your next turn, each of this Pokémon’s attacks does 30 more damage (before applying Weakness and Resistance).\nFighting",
+                "damage": null
+            },
+            {
+                "name": null,
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": null,
+                "damage": "10"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-8",
         "localId": "8",
         "name": "Drilbur",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            509
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "They steal from people for fun, but their victims can’t help but forgive them. Their deceptively cute act is perfect.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Knock Off",
+                "cost": null,
+                "effect": "Flip a coin. If heads, discard a random card from your opponent’s hand.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-9",
         "localId": "9",
         "name": "Purrloin",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            559
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-10",
         "localId": "10",
         "name": "Scraggy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            600
+        ],
+        "hp": 80,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don’t return.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Metal Sound",
+                "cost": null,
+                "effect": "The Defending Pokémon is now Confused.",
+                "damage": null
+            },
+            {
+                "name": "Guard Press",
+                "cost": null,
+                "effect": "During your opponent’s next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+                "damage": 60
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-11",
         "localId": "11",
         "name": "Klang",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2012bw",
+            "name": "McDonald's Collection 2012",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            610
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Dual Chop",
+                "cost": null,
+                "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2012bw-12",
         "localId": "12",
         "name": "Axew",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

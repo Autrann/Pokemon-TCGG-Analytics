@@ -14,6 +14,9 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def serialize(obj):
+    """
+    Convierte objetos del SDK a estructuras compatibles con JSON.
+    """
 
     if obj is None:
         return None
@@ -43,8 +46,15 @@ def serialize(obj):
     return str(obj)
 
 
-def main():
+def format_time(seconds):
+    hours = seconds // 3600
+    minutes = (seconds % 3600) // 60
+    seconds = seconds % 60
 
+    return f"{hours:02}:{minutes:02}:{seconds:02}"
+
+
+def main():
     start = time.time()
 
     with SETS_FILE.open("r", encoding="utf-8") as file:
@@ -52,43 +62,75 @@ def main():
 
     total_cards = 0
 
-    for current_set in sets:
+    for set_number, current_set in enumerate(sets, start=1):
 
         set_id = current_set["id"]
 
-        print(f"Downloading {set_id}...")
+        print(
+            f"[{set_number}/{len(sets)}] "
+            f"Downloading set {set_id}..."
+        )
 
-        cards = tcgdex.card.listSync(
+        # Obtiene resúmenes de las cartas del set
+        card_resumes = tcgdex.card.listSync(
             Query().equal("set.id", set_id)
         )
 
-        data = [serialize(card) for card in cards]
+        complete_cards = []
 
-        with (OUTPUT_DIR / f"{set_id}.json").open(
+        for card_number, card_resume in enumerate(
+            card_resumes,
+            start=1
+        ):
+            try:
+                # Obtiene la carta COMPLETA
+                card = tcgdex.card.getSync(card_resume.id)
+
+                complete_cards.append(
+                    serialize(card)
+                )
+
+                print(
+                    f"    [{card_number}/{len(card_resumes)}] "
+                    f"{card_resume.id}",
+                    end="\r"
+                )
+
+            except Exception as error:
+                print()
+                print(
+                    f"    ERROR en {card_resume.id}: {error}"
+                )
+
+        output_file = OUTPUT_DIR / f"{set_id}.json"
+
+        with output_file.open(
             "w",
             encoding="utf-8"
         ) as file:
 
             json.dump(
-                data,
+                complete_cards,
                 file,
                 indent=4,
                 ensure_ascii=False
             )
 
-        total_cards += len(data)
+        total_cards += len(complete_cards)
+
+        print()
+        print(
+            f"    Guardadas: {len(complete_cards)} cartas"
+        )
 
     elapsed = int(time.time() - start)
 
-    hours = elapsed // 3600
-    minutes = (elapsed % 3600) // 60
-    seconds = elapsed % 60
-
     print()
-    print("=" * 40)
-    print(f"Sets encontrados : {len(sets)}")
-    print(f"Cartas descargadas: {total_cards}")
-    print(f"Tiempo            : {hours:02}:{minutes:02}:{seconds:02}")
+    print("=" * 50)
+    print(f"Sets encontrados   : {len(sets)}")
+    print(f"Cartas descargadas : {total_cards}")
+    print(f"Tiempo             : {format_time(elapsed)}")
+    print("=" * 50)
 
 
 if __name__ == "__main__":

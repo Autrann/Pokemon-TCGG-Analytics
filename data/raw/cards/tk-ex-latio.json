@@ -1,62 +1,678 @@
 [
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": [
+            309
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "2x"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-1",
         "localId": "1",
         "name": "Electrike",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kyoko Koizumi",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": [
+            381
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gather Energy",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, search your deck for a basic Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+                "damage": 20
+            },
+            {
+                "name": "Dragon Claw",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "2x"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-2",
         "localId": "2",
         "name": "Latios",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": [
+            264
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Zigzagoon",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Seek Out",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Continuous Headbutt",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin until you get tails. This attack does 40 damage times the number of heads.",
+                "damage": "40×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "2x"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-3",
         "localId": "3",
         "name": "Linoone",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Tomokazu Komiya",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": [
+            81
+        ],
+        "hp": 40,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rollout",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Hook",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "2x"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-4",
         "localId": "4",
         "name": "Magnemite",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kyoko Umemoto",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": [
+            82
+        ],
+        "hp": 80,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Magnemite",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Ram",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Triple Smash",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 20 damage plus 20 more damage for each heads.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "2x"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-5",
         "localId": "5",
         "name": "Magneton",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Pika Bolt",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "2x"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-6",
         "localId": "6",
         "name": "Pikachu",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": [
+            263
+        ],
+        "hp": 40,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "2x"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-7",
         "localId": "7",
         "name": "Zigzagoon",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Keiji Kinebuchi",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-8",
         "localId": "8",
         "name": "Potion",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kai Ishikawa",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-ex-latio-9",
         "localId": "9",
         "name": "Energy Search",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "",
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-ex-latio",
+            "name": "EX trainer Kit (Latios)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-ex-latio/symbol",
+            "cardCount": {
+                "total": 10,
+                "official": 10
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-ex-latio-10",
         "localId": "10",
         "name": "Lightning Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

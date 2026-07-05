@@ -1,104 +1,1318 @@
 [
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            181
+        ],
+        "hp": 130,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Flaaffy",
+        "description": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Jamming",
+                "effect": "After your opponent plays a Supporter card from his or her hand, put 1 damage counter on each of your opponent's Pokémon. You can't use more than 1 Jamming Poké-Body each turn."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Cluster Bolt",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "You may discard all Lightning Energy attached to Ampharos. If you do, this attack does 20 damage to each of your opponent’s Benched Pokémon that has any Energy cards attached to it. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+30"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-1",
         "localId": "1",
         "name": "Ampharos",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/1",
+        "boosters": null
     },
     {
+        "illustrator": "Daisuke Ito",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            475
+        ],
+        "hp": 130,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Kirlia",
+        "description": "A master of courtesy and swordsmanship, it fights using extending swords on it elbows.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sonic Blade",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Put damage counters on the Defending Pokémon until it is 50 HP away from being Knocked Out. If you do, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+                "damage": null
+            },
+            {
+                "name": "Psychic Cut",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "You may choose as many of your face-down Prize cards as you like and put them face up. If you do, this attack does 60 damage plus 20 more damage for each Prize card you chose. (These cards remain face up for the rest of the game.)",
+                "damage": "60+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "+30"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-2",
         "localId": "2",
         "name": "Gallade",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/2",
+        "boosters": null
     },
     {
+        "illustrator": "Daisuke Ito",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            380
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Its body is covered with a down that can refract light in such a way that it becomes invisble.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Miraculous Light",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Remove 2 damage counters and all Special Conditions from Latias.",
+                "damage": 10
+            },
+            {
+                "name": "Mist Ball",
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Discard a Fire Energy and a Water Energy attached to Latias.",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-3",
         "localId": "3",
         "name": "Latias",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/3",
+        "boosters": null
     },
     {
+        "illustrator": "Daisuke Ito",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            381
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Energy Draw",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, search your deck for a basic Energy card and attach it to Latios. Shuffle your deck afterward.",
+                "damage": 10
+            },
+            {
+                "name": "Luster Purge",
+                "cost": [
+                    "Grass",
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Discard 3 Energy attached to Latios.",
+                "damage": 120
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-4",
         "localId": "4",
         "name": "Latios",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/4",
+        "boosters": null
     },
     {
+        "illustrator": "Kazuyuki Kano",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            414
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Burmy",
+        "description": "It loves the honey of flowers and steals honey collected by COMBEE.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Silver Wind",
+                "cost": null,
+                "effect": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage.",
+                "damage": null
+            },
+            {
+                "name": "Raging Scales",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "If Mothim has any damage counters on it, this attack does 30 damage plus 40 more damage.",
+                "damage": "30+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-5",
         "localId": "5",
         "name": "Mothim",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/5",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            225
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Present",
+                "cost": null,
+                "effect": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Ice Ball",
+                "cost": [
+                    "Water"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-6",
         "localId": "6",
         "name": "Delibird",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/6",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            180
+        ],
+        "hp": 80,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Mareep",
+        "description": "If its coat becomes fully charged with electricity, its tail lights up. It fire hair that zaps on impact.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Attract Current",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for a Lightning Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+                "damage": 10
+            },
+            {
+                "name": "Electromagnetic Kick",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, Flaaffy does 10 damage to itself.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-7",
         "localId": "7",
         "name": "Flaaffy",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/7",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            281
+        ],
+        "hp": 80,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": "Ralts",
+        "description": "It is highly perceptive of its Trainer’s feelings. It dances when it is feeling happy.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Psychic Research",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Search your discard pile for a Supporter card and use the effect of that card as the effect of this attack. (The Supporter card remains in your discard pile.)",
+                "damage": null
+            },
+            {
+                "name": "Telekinesis",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Choose 1 of your opponent’s Pokémon. This attack does 40 damage to that Pokémon. This attack’s damage isn’t affected by Weakness or Resistance.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-8",
         "localId": "8",
         "name": "Kirlia",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/8",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            234
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Lead",
+                "cost": null,
+                "effect": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Frighten Horn",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If the Defending Pokémon isn’t an Evolved Pokémon, that Pokémon is now Confused.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-9",
         "localId": "9",
         "name": "Stantler",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/9",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            413
+        ],
+        "hp": 80,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Burmy",
+        "description": "When BURMY evolved, it cloak became a part of this Pokémon’s body. The cloak is never shed.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Sandy Cloak",
+                "effect": "Prevent all effects of attacks, excluding damage, done to Wormadam Sandy Cloak."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Push Over",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 40 damage plus 10 more damage for each Fighting Energy attached to Wormadam Sandy Cloak.",
+                "damage": "40+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-10",
         "localId": "10",
         "name": "Wormadam Sandy Cloak",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/10",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            412
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Wear Cloak",
+                "effect": "Once during your turn (before your attack), if Burmy Plant Cloak is your Active Pokémon, you may search your discard pile for a basic Grass Energy card and attach it to Burmy Plant Cloak."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Plant Cloak Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "If Burmy Plant Cloak has any Grass Energy attached to it, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-11",
         "localId": "11",
         "name": "Burmy Plant Cloak",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/11",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            412
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Wear Cloak",
+                "effect": "Once during your turn (before your attack), if Burmy Sandy Cloak is your Active Pokémon, you may search your discard pile for a basic Fighting Energy card and attach it to Burmy Sandy Cloak."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Sandy Cloak Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "If Burmy Sandy Cloak has any Fighting Energy attached to it, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-12",
         "localId": "12",
         "name": "Burmy Sandy Cloak",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/12",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            222
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rally",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for up to 3 different types of Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Hook",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-13",
         "localId": "13",
         "name": "Corsola",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/13"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/13",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            179
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Thundershock",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            },
+            {
+                "name": "Static Shock",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-14",
         "localId": "14",
         "name": "Mareep",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/14",
+        "boosters": null
     },
     {
+        "illustrator": "Sumiyoshi Kizuki",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            280
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Smack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Confuse Ray",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-15",
         "localId": "15",
         "name": "Ralts",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/15",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            161
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Grope",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Look at the top 2 cards of your deck, choose 1 of them, and put it into your hand. Put the other card on the bottom of your deck.",
+                "damage": null
+            },
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-16",
         "localId": "16",
         "name": "Sentret",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/16",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop7",
+            "name": "POP Series 7",
+            "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop7/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            327
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Dish Out",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Draw a card from the top and the bottom of your deck.",
+                "damage": null
+            },
+            {
+                "name": "Synchro Punch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "If any basic Energy card attached to Spinda is the same type as any Energy attached to the Defending Pokémon, this attack does 10 damage plus 30 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop7-17",
         "localId": "17",
         "name": "Spinda",
-        "image": "https://assets.tcgdex.net/en/pop/pop7/17"
+        "image": "https://assets.tcgdex.net/en/pop/pop7/17",
+        "boosters": null
     }
 ]

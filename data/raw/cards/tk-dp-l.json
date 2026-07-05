@@ -1,68 +1,722 @@
 [
     {
+        "illustrator": "Ken Sudimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": [
+            74
+        ],
+        "hp": 60,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": "Many live on mountain trails and remain half buried while keeping an eye on climbers",
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Stone Throw",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "10+"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-1",
         "localId": "1",
         "name": "Geodude",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": [
+            75
+        ],
+        "hp": 90,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Geodude",
+        "description": "GRAVELER make their homes on sheer cliff faces by gouging out numerous horizontal holes.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rock Cannon",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+                "damage": "30×"
+            },
+            {
+                "name": "Rock Slide",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": "40"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "20+"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-2",
         "localId": "2",
         "name": "Graveler",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kent Kanetsuna",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": [
+            448
+        ],
+        "hp": 90,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Riolu",
+        "description": "It has the ability to sense the auras of all things. It understands human speech.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Feint",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "This attack’s damage isn’t affected by Resistance.",
+                "damage": 30
+            },
+            {
+                "name": "Aura Sphere",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "effect": "Does 20 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "20+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-3",
         "localId": "3",
         "name": "Lucario",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": [
+            67
+        ],
+        "hp": 90,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Machop",
+        "description": "MACHOKE's boundless power is very dangerous, so it wears a belt that suppresses its energy.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Karate Chop",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Does 40 damage minus 10 damage for each damage counter on Machoke.",
+                "damage": "40-"
+            },
+            {
+                "name": "Seismic Toss",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "60"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "20+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-4",
         "localId": "4",
         "name": "Machoke",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": [
+            66
+        ],
+        "hp": 60,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": "It hefts a GRAVELER repeatedly to strengthen its entire body. It uses every type of martial arts.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Low Kick",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "10+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-5",
         "localId": "5",
         "name": "Machop",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": [
+            447
+        ],
+        "hp": 60,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Wild Kick",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": "30"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "10+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-6",
         "localId": "6",
         "name": "Riolu",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": [
+            396
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "They flock in great numbers. Though small, they flap their wings with great power.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gust",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "10+"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-7",
         "localId": "7",
         "name": "Starly",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kai Ishikawa",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-8",
         "localId": "8",
         "name": "Energy Search",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shin-ichi Yoshikawa",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-9",
         "localId": "9",
         "name": "Potion",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Reveal cards from your deck until you reveal a Pokémon. Show that Pokémon to your opponent and put it into your hand. Shuffle the other revealed cards back into your deck. (If you don't reveal a Pokémon, shuffle all the revealed cards back into your deck.)",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-l-10",
         "localId": "10",
         "name": "Quick Ball",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "",
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-l",
+            "name": "DP trainer Kit (Lucario)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-l/symbol",
+            "cardCount": {
+                "total": 11,
+                "official": 11
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-dp-l-11",
         "localId": "11",
         "name": "Fighting Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

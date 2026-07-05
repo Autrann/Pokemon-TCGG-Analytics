@@ -1,104 +1,1275 @@
 [
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            9
+        ],
+        "hp": 120,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Wartortle",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Smash Turn",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "After your attack, you may switch Blastoise with 1 of your Benched Pokémon.",
+                "damage": 30
+            },
+            {
+                "name": "Rocket Tackle",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Blastoise by attacks during your opponent’s next turn.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-1",
         "localId": "1",
         "name": "Blastoise",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/1",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            136
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Eevee",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Fire Spin",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Discard 2 basic Energy cards attached to Flareon or this attack does nothing.",
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-2",
         "localId": "2",
         "name": "Flareon",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/2",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            135
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Eevee",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Thundershock",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Pin Missile",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+                "damage": "20×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-30"
+            }
+        ],
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-3",
         "localId": "3",
         "name": "Jolteon",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/3",
+        "boosters": null
     },
     {
+        "illustrator": "Sumiyoshi Kizuki",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            312
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Cheer Up",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Draw a card. If you have Plusle in play, draw 2 cards instead.",
+                "damage": null
+            },
+            {
+                "name": "Negative Ion",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "During your opponent’s next turn, any damage done by attacks from the Defending Pokémon is reduced by 10 (before applying Weakness and Resistance).",
+                "damage": 20
+            },
+            {
+                "name": "Power Bolt",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "effect": "Choose 1 of your opponent’s Pokémon that has any Poké-Powers. This attack does 30 damage to that Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-4",
         "localId": "4",
         "name": "Minun",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/4",
+        "boosters": null
     },
     {
+        "illustrator": "Sumiyoshi Kizuki",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            311
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Cheer Up",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Draw a card. If you have Minun in play, draw 2 cards instead.",
+                "damage": null
+            },
+            {
+                "name": "Positive Ion",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+                "damage": "20+"
+            },
+            {
+                "name": "Body Bolt",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "effect": "Choose 1 of your opponent’s Pokémon that has any Poké-Bodies. This attack does 30 damage to that Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-5",
         "localId": "5",
         "name": "Plusle",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/5",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            134
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Diglett",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bite",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Water Gun",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Does 30 damage plus 20 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack’s Energy cost. You can’t add more than 40 damage in this way.",
+                "damage": "30+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-6",
         "localId": "6",
         "name": "Vaporeon",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/6",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            256
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Flamethrower",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Discard a Fire Energy attached to Combusken.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-7",
         "localId": "7",
         "name": "Combusken",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/7",
+        "boosters": null
     },
     {
+        "illustrator": "Tomoaki Imakuni",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            232
+        ],
+        "hp": 80,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sniff Out",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Put any 1 card from your discard pile into your hand.",
+                "damage": null
+            },
+            {
+                "name": "Fury Attack",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+                "damage": "30×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-8",
         "localId": "8",
         "name": "Donphan",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/8",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            205
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Toxic",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-9",
         "localId": "9",
         "name": "Forretress",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/9",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Ikuji",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Each player pays Colorless less to retreat his or her Fire and Water Pokémon.",
+        "trainerType": "Stadium",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-10",
         "localId": "10",
         "name": "High Pressure System",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/10",
+        "boosters": null
     },
     {
+        "illustrator": "Shin-ichi Yoshikawa",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Each Grass and Lightning Pokémon in play (both yours and your opponent’s) gets +10 HP.",
+        "trainerType": "Stadium",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-11",
         "localId": "11",
         "name": "Low Pressure System",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/11",
+        "boosters": null
     },
     {
+        "illustrator": "Yuka Morii",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            132
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Duplicate",
+                "effect": "Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can’t use more than 1 Duplicate Poké-Power each turn."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Psybeam",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-12",
         "localId": "12",
         "name": "Ditto",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/12",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            133
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Take Down",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Eevee does 10 damage to itself.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-13",
         "localId": "13",
         "name": "Eevee",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/13"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/13",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            2
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gouge",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Poisonpowder",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon is now Poisoned.",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-14",
         "localId": "14",
         "name": "Ivysaur",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/14",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            259
+        ],
+        "hp": 70,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Mudkip",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Mud Slap",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Double-edge",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Marshtomp does 10 damage to itself.",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-15",
         "localId": "15",
         "name": "Marshtomp",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/15",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            172
+        ],
+        "hp": 60,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bustle",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "effect": "Flip 2 coins. This attack does 20 damage times the number of heads. If either coin is heads, the Defending Pokémon is now Confused.",
+                "damage": "20×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-16",
         "localId": "16",
         "name": "Pichu Bros.",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/16",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Ultra Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop3",
+            "name": "POP Series 3",
+            "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop3/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            250
+        ],
+        "hp": 110,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": "EX",
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Golden Wing",
+                "effect": "If Ho-Oh ex would be Knocked Out by damage from an opponent’s attack, you may move up to 2 Energy attached to Ho-Oh ex to your Pokémon in any way you like."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Rainbow Burn",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage plus 20 more damage for each type of basic Energy card attached to Ho-Oh ex.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop3-17",
         "localId": "17",
         "name": "Ho-Oh ex",
-        "image": "https://assets.tcgdex.net/en/pop/pop3/17"
+        "image": "https://assets.tcgdex.net/en/pop/pop3/17",
+        "boosters": null
     }
 ]

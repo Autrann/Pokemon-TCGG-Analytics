@@ -1,74 +1,802 @@
 [
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            252
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-1",
         "localId": "1",
         "name": "Treecko",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kanako Eo",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            270
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Beat",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-2",
         "localId": "2",
         "name": "Lotad",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "sui",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            255
+        ],
+        "hp": 60,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Ember",
+                "cost": [
+                    "Fire"
+                ],
+                "effect": "Flip a coin. If tails, discard a fire Energy attached to this Pokémon.",
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-3",
         "localId": "3",
         "name": "Torchic",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Tomokazu Kamiya",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            120
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Lunge",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-4",
         "localId": "4",
         "name": "Staryu",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Aya Kusube",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            258
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Water"
+                ],
+                "effect": null,
+                "damage": "10"
+            },
+            {
+                "name": "Mud-Slap",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-5",
         "localId": "5",
         "name": "Mudkip",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 60,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tail Whip",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin, If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+                "damage": null
+            },
+            {
+                "name": "Electro Ball",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "30"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-6",
         "localId": "6",
         "name": "Pikachu",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Sumiyoshi Kizuki",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            309
+        ],
+        "hp": 60,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Charge",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for a lightning energy card and attach it to this Pokémon. shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Bite",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-7",
         "localId": "7",
         "name": "Electrike",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            111
+        ],
+        "hp": 80,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Take Down",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "effect": "This Pokémon does 10 damage to itself",
+                "damage": 40
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-8",
         "localId": "8",
         "name": "Rhyhorn",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "sui",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            307
+        ],
+        "hp": 50,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Smack",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-9",
         "localId": "9",
         "name": "Meditite",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shigenori Negishi",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            183
+        ],
+        "hp": 70,
+        "types": [
+            "Fairy"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "10"
+            },
+            {
+                "name": "Rollout",
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-10",
         "localId": "10",
         "name": "Marill",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Sumiyoshi Kizuki",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            263
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sand Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+                "damage": null
+            },
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-11",
         "localId": "11",
         "name": "Zigzagoon",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Yuka Morii",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "2015xy",
+            "name": "McDonald's Collection 2015",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            300
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Charm",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying weakness and resistance).",
+                "damage": null
+            },
+            {
+                "name": "Tail Smack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": "20"
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "2015xy-12",
         "localId": "12",
         "name": "Skitty",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

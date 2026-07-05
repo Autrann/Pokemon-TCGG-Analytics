@@ -1,74 +1,796 @@
 [
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            418
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It has a flotation that is like an inflatable collar. It floats on water with its head out.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Splash About",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "10+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-1",
         "localId": "1",
         "name": "Buizel",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masahiko Ishii",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            419
+        ],
+        "hp": 90,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Buizel",
+        "description": "It floats using its well-developed floation sac. It assists in the rescues of drowning people.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Screw Tail",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+                "damage": 30
+            },
+            {
+                "name": "Water Gun",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "effect": "Does 40 damage plus 20 more damage for each Water Energy attached to Floatzel but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way.",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "20+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-2",
         "localId": "2",
         "name": "Floatzel",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            118
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It swims elegantly by flittering its tail fin as if it were a dress. It has the look of a queen.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Horn Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Take Down",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Goldeen does 10 damage to itself.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "10+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-3",
         "localId": "3",
         "name": "Goldeen",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Daisuke Ito",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            490
+        ],
+        "hp": 70,
+        "types": null,
+        "evolveFrom": null,
+        "description": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Call for Family",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Aqua Ring",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "effect": "Switch Manaphy with 1 of your Benched Pokémon.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "20+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-4",
         "localId": "4",
         "name": "Manaphy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            393
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Peck",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Water Splash",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 more damage plus 10 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "10+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-5",
         "localId": "5",
         "name": "Piplup",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            394
+        ],
+        "hp": 80,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Piplup",
+        "description": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Aqua Shower",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            },
+            {
+                "name": "Brine",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "effect": "Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "20+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-6",
         "localId": "6",
         "name": "Prinplup",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            119
+        ],
+        "hp": 80,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Goldeen",
+        "description": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Flail",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage times the number of damage counters on Seaking.",
+                "damage": "10x"
+            },
+            {
+                "name": "Horn Drill",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "20+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-7",
         "localId": "7",
         "name": "Seaking",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": [
+            158
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bite",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Shining Fang",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "If the Defending Pokémon already has any damage counters on it, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "10+"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-8",
         "localId": "8",
         "name": "Totodile",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Look at the 7 cards from the bottom of your deck. Choose 1 Pokémon you find there, show it to your opponent, and put it into your hand. Put the remaining cards back on top of your deck. Shuffle your deck afterward.",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-9",
         "localId": "9",
         "name": "Dusk Ball",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kai Ishikawa",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-10",
         "localId": "10",
         "name": "Energy Search",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shin-ichi Yoshikawa",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-dp-m-11",
         "localId": "11",
         "name": "Potion",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "",
+        "rarity": "None",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-dp-m",
+            "name": "DP trainer Kit (Manaphy)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-dp-m/symbol",
+            "cardCount": {
+                "total": 12,
+                "official": 12
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-dp-m-12",
         "localId": "12",
         "name": "Water Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

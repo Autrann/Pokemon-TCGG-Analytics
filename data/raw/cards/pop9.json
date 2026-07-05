@@ -1,104 +1,1321 @@
 [
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            445
+        ],
+        "hp": 130,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Gabite",
+        "description": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Dragon Rage",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+                "damage": 80
+            },
+            {
+                "name": "Jet Sword",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Discard 2 Energy attached to Garchomp and this attack does 10 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 100
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "+30"
+            }
+        ],
+        "resistances": null,
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-1",
         "localId": "1",
         "name": "Garchomp",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/1",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            490
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Dive",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Look at the top 7 cards of your deck, choose 1 of them, and put it into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Water Glow",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Choose 1 of your opponent’s Pokémon. This attack does 20 damage to that Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.) Remove from Manaphy the number of damage counters equal to the damage you did to that Pokémon.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-2",
         "localId": "2",
         "name": "Manaphy",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/2",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": true,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            26
+        ],
+        "hp": 90,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Pikachu",
+        "description": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Slam",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+                "damage": "30×"
+            },
+            {
+                "name": "High Volt",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "effect": "If Raichu evolved from Pikachu during this turn, this attack’s base damage is 100 instead of 60.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-3",
         "localId": "3",
         "name": "Raichu",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/3",
+        "boosters": null
     },
     {
+        "illustrator": "Kent Kanetsuna",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            486
+        ],
+        "hp": 100,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Body Slam",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Double Stomp",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.",
+                "damage": "50+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-4",
         "localId": "4",
         "name": "Regigigas",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/4",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            479
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Type Shift",
+                "effect": "Once during your turn (before your attack), you may use this power. Rotom’s type is Psychic until the end of your turn."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Poltergeist",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "Look at your opponent’s hand. This attack does 30 damage plus 10 more damage for each Trainer, Supporter, and Stadium card in your opponent’s hand.",
+                "damage": "30+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-5",
         "localId": "5",
         "name": "Rotom",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/5",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            418
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Whirlpool",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+                "damage": null
+            },
+            {
+                "name": "Super Fast",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "effect": "If you have Pachirisu in play, flip a coin. If heads, prevent all effects of an attack, including damage, done to Buizel during your opponent’s next turn.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-6",
         "localId": "6",
         "name": "Buizel",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/6",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            453
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "Inflating its poison sacs, it makes an eerie blubbering sound for intimidation.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Knock Off",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, choose 1 card from your opponent’s hand without looking and discard it.",
+                "damage": null
+            },
+            {
+                "name": "Nimble",
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "effect": "If you have Turtwig in play, remove from Croagunk the number of damage counters equal to the damage you did to the Defending Pokémon.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-7",
         "localId": "7",
         "name": "Croagunk",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/7",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            444
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Gible",
+        "description": "It habitually digs up and hoards gems in its nest. Its loot is constantly targeted by thieves.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Burrow",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, prevent all damage done to Gabite by attacks during your opponent’s next turn.",
+                "damage": null
+            },
+            {
+                "name": "Distorted Wave",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Before doing damage, remove 2 damage counters from the Defending Pokémon.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-8",
         "localId": "8",
         "name": "Gabite",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/8",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            428
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Bastiodon",
+        "description": "It is very conscious of its looks and never fails to groom its ears. It runs with sprightly jumps.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Jump Kick",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 20 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 20
+            },
+            {
+                "name": "Jazzed",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If Lopunny evolved from Buneary during this turn, remove all damage counters from Lopunny.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+20"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-9",
         "localId": "9",
         "name": "Lopunny",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/9",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            417
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "It makes electricity with pouches in its cheeks and shoots charges from its tail. It live atop trees.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Thunder Wave",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            },
+            {
+                "name": "Poison Berry",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "If you have Croagunk in play, this attack does 20 damage plus 20 more damage and the Defending Pokémon is now Poisoned.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+20"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-10",
         "localId": "10",
         "name": "Pachirisu",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/10",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            172
+        ],
+        "hp": 40,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Baby Evolution",
+                "effect": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Find a Friend",
+                "cost": null,
+                "effect": "Flip a coin. If heads, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-11",
         "localId": "11",
         "name": "Pichu",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/11",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            427
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Dizzy Punch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            },
+            {
+                "name": "Defense Curl",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, prevent all damage done to Buneary by attacks during your opponent’s next turn.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-12",
         "localId": "12",
         "name": "Buneary",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/12",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            390
+        ],
+        "hp": 40,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": "Its fiery rear end is fueld by gas made in its belly. Even rain can’t extinguish the fire.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Serial Swipes",
+                "cost": [
+                    "Fire"
+                ],
+                "effect": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            },
+            {
+                "name": "Sleepy",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If you have Piplup in play, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Asleep.",
+                "damage": "40+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-13",
         "localId": "13",
         "name": "Chimchar",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/13"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/13",
+        "boosters": null
     },
     {
+        "illustrator": "Hiroki Fuchino",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            443
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "Its nests is small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Push Down",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-14",
         "localId": "14",
         "name": "Gible",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/14",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 60,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": "If it looses crackling power from the electric pouches on its cheeks, it is being wary.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Growl",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "During your opponent’s next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+                "damage": null
+            },
+            {
+                "name": "Numb",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If Pikachu evolved from Pichu during this turn, the Defending Pokémon is now Paralyzed.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-15",
         "localId": "15",
         "name": "Pikachu",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/15",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            393
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": "It lives along shores in northern countries. A skilled swimmer, it dives for over 10 minutes to hunt.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Water Sport",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "If Piplup has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Wavelet",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If you have Buizel in play, this attack does 10 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "+10"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-16",
         "localId": "16",
         "name": "Piplup",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/16",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop9",
+            "name": "POP Series 9",
+            "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop9/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            387
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": "It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Absorb",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "Remove 1 damage counter from Turtwig.",
+                "damage": 10
+            },
+            {
+                "name": "Parboil",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If you have Chimchar in play, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Burned.",
+                "damage": "40+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "+10"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop9-17",
         "localId": "17",
         "name": "Turtwig",
-        "image": "https://assets.tcgdex.net/en/pop/pop9/17"
+        "image": "https://assets.tcgdex.net/en/pop/pop9/17",
+        "boosters": null
     }
 ]

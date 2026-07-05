@@ -1,104 +1,1330 @@
 [
     {
+        "illustrator": "Katsura Tabata",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            257
+        ],
+        "hp": 110,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Combusken",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fire Punch",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 40
+            },
+            {
+                "name": "Double Kick",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 50 damage times the number of heads.",
+                "damage": "50×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-1",
         "localId": "1",
         "name": "Blaziken",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/1",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            376
+        ],
+        "hp": 100,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": "Metang",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Metal Claw",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            },
+            {
+                "name": "Hyper Beam",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, discard 1 Energy attached to the Defending Pokémon.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-2",
         "localId": "2",
         "name": "Metagross",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/2",
+        "boosters": null
     },
     {
+        "illustrator": "Katsura Tabata",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            384
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fly",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Rayquaza during your opponent’s next turn.",
+                "damage": 10
+            },
+            {
+                "name": "Dragon Claw",
+                "cost": [
+                    "Fire",
+                    "Lightning"
+                ],
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-3",
         "localId": "3",
         "name": "Rayquaza",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/3",
+        "boosters": null
     },
     {
+        "illustrator": "Hiromichi Sugiyama",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            254
+        ],
+        "hp": 100,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Grovyle",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Cling",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "After your attack, remove from Sceptile the number of damage counters equal to the damage you did to the Defending Pokémon. If Sceptile has fewer damage counters than that, remove all of them.",
+                "damage": 20
+            },
+            {
+                "name": "Leaf Blade",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 40 damage plus 30 more damage.",
+                "damage": "40+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-4",
         "localId": "4",
         "name": "Sceptile",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/4",
+        "boosters": null
     },
     {
+        "illustrator": "Hiromichi Sugiyama",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            260
+        ],
+        "hp": 100,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Marshtomp",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bubble",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Mud Splash",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-5",
         "localId": "5",
         "name": "Swampert",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/5",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            267
+        ],
+        "hp": 100,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Silcoon",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Blot",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "Remove 1 damage counter from Beautifly.",
+                "damage": 30
+            },
+            {
+                "name": "Whirlwind",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-6",
         "localId": "6",
         "name": "Beautifly",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/6",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            284
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Surskit",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Gust",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-7",
         "localId": "7",
         "name": "Masquerain",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/7",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            198
+        ],
+        "hp": 60,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Insomnia",
+                "effect": "Murkrow can’t be Asleep."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Feint Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Choose 1 of your opponent’s Pokémon. This attack does 20 damage to that Pokémon. This attack’s damage isn’t affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-8",
         "localId": "8",
         "name": "Murkrow",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/8",
+        "boosters": null
     },
     {
+        "illustrator": "Hisao Nakamura",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            247
+        ],
+        "hp": 70,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Larvitar",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rock Smash",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-9",
         "localId": "9",
         "name": "Pupitar",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/9",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            324
+        ],
+        "hp": 80,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Amnesia",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Choose 1 of the Defending Pokémon’s attacks. That Pokémon can’t use that attack during your opponent’s next turn.",
+                "damage": null
+            },
+            {
+                "name": "Body Slam",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-10",
         "localId": "10",
         "name": "Torkoal",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/10",
+        "boosters": null
     },
     {
+        "illustrator": "Hisao Nakamura",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            246
+        ],
+        "hp": 40,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sand Attack",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "If the Defending Pokémon tries to attack during your opponent’s next turn, your opponent flips a coin. If tails, that attack does nothing.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-11",
         "localId": "11",
         "name": "Larvitar",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/11",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            312
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Thunder Wave",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            },
+            {
+                "name": "Spark",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Choose 2 of your opponent’s Benched Pokémon. This attack does 10 damage to each of those Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-12",
         "localId": "12",
         "name": "Minun",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/12",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            311
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Agility",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Plusle during your opponent’s next turn.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-13",
         "localId": "13",
         "name": "Plusle",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/13"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/13",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            283
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bubble",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-14",
         "localId": "14",
         "name": "Surskit",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/14",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            277
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Tailow",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Focus Energy",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "During your next turn, base damage of Swellow’s Agility is 70 instead of 30.",
+                "damage": null
+            },
+            {
+                "name": "Agility",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent’s next turn.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-15",
         "localId": "15",
         "name": "Swellow",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/15",
+        "boosters": null
     },
     {
+        "illustrator": "Hikaru Koike",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            348
+        ],
+        "hp": 160,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Anorith",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": "EX",
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Twin-blade",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Does 30 damage to each Defending Pokémon.",
+                "damage": null
+            },
+            {
+                "name": "Supersonic Claws",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "This attack’s damage is not affected by Resistance.",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": null
+            },
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-16",
         "localId": "16",
         "name": "Armaldo ex",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/16",
+        "boosters": null
     },
     {
+        "illustrator": "Hisao Nakamura",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop1",
+            "name": "POP Series 1",
+            "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop1/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            248
+        ],
+        "hp": 150,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": "Pupitar",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": "EX",
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Critical Crush",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Discard 2 basic Energy cards attached to Tyranitar ex or this attack does nothing.",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": null
+            },
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-30"
+            }
+        ],
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop1-17",
         "localId": "17",
         "name": "Tyranitar ex",
-        "image": "https://assets.tcgdex.net/en/pop/pop1/17"
+        "image": "https://assets.tcgdex.net/en/pop/pop1/17",
+        "boosters": null
     }
 ]

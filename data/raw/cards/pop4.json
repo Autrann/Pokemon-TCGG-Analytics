@@ -1,104 +1,1209 @@
 [
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            358
+        ],
+        "hp": 60,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Wrap",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": null
+            },
+            {
+                "name": "Sonicboom",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": "This attack’s damage isn’t affected by Weakness or Resistance.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-1",
         "localId": "1",
         "name": "Chimecho δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/1",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            386
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Form Change",
+                "effect": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can’t use more than 1 Form Change Poké-Power each turn."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Crystal Laser",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "During your next turn, Deoxys’s attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-2",
         "localId": "2",
         "name": "Deoxys δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/2",
+        "boosters": null
     },
     {
+        "illustrator": "Hisao Nakamura",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            330
+        ],
+        "hp": 120,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Vibrava",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Levitate",
+                "effect": "As long as Flygon has any Energy attached to it, the Retreat Cost for Flygon is 0."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Bite",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            },
+            {
+                "name": "Sand Pit",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon can’t retreat during your opponent’s next turn.",
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-3",
         "localId": "3",
         "name": "Flygon",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/3",
+        "boosters": null
     },
     {
+        "illustrator": "Nakaoka",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            151
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Reactive Barrier",
+                "effect": "As long as Mew has any React Energy cards attached to it, prevent all effects, excluding damage, done to Mew by attacks from your opponent’s Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Psyshock",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-4",
         "localId": "4",
         "name": "Mew",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/4",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            254
+        ],
+        "hp": 100,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Grovyle",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Energy Trans",
+                "effect": "As often as you like during your turn (before your attack), move a Grass Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can’t be used if Sceptile is affected by a Special Condition."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Tail Rap",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 50 damage times the number of heads.",
+                "damage": "50×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-5",
         "localId": "5",
         "name": "Sceptile",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/5",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            256
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Torchic",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Smokescreen",
+                "cost": [
+                    "Fire"
+                ],
+                "effect": "If the Defending Pokémon tries to attack during your opponent’s next turn, your opponent flips a coin. If tails, that attack does nothing.",
+                "damage": 10
+            },
+            {
+                "name": "Sky Uppercut",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "This attack’s damage isn’t affected by Resistance.",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-6",
         "localId": "6",
         "name": "Combusken",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/6",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            253
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Treecko",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Blot",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "Remove 2 damage counters from Grovyle.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-7",
         "localId": "7",
         "name": "Grovyle",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/7",
+        "boosters": null
     },
     {
+        "illustrator": "Takumi Akabane",
+        "rarity": "Uncommon",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Heal Energy provides Colorless Energy. When you attach this card from your hand to 1 of your Pokémon, remove 1 damage counter and all Special Conditions from that Pokémon. If Heal Energy is attached to Pokémon-ex, Heal Energy has no effect other than providing Energy.",
+        "trainerType": null,
+        "energyType": "Special",
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-8",
         "localId": "8",
         "name": "Heal Energy",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/8",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-9",
         "localId": "9",
         "name": "Pokémon Fan Club",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/9",
+        "boosters": null
     },
     {
+        "illustrator": "Takumi Akabane",
+        "rarity": "Uncommon",
+        "category": "Energy",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Scramble Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). Scramble Energy provides Colorless Energy. While in play, if you have more Prize cards left than your opponent, Scramble Energy provides every type of Energy but provides only 3 in any combination at a time. If the Pokémon Scramble Energy is attached to isn’t an Evolved Pokémon (or evolves into Pokémon-ex), discard Scramble Energy.",
+        "trainerType": null,
+        "energyType": "Special",
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-10",
         "localId": "10",
         "name": "Scramble Energy",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/10",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            258
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Super Hypno Wave",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon is now Asleep.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-11",
         "localId": "11",
         "name": "Mudkip",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/11",
+        "boosters": null
     },
     {
+        "illustrator": "Hisao Nakamura",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            16
+        ],
+        "hp": 40,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Quick Attack",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-12",
         "localId": "12",
         "name": "Pidgey",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/12",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Spark",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-13",
         "localId": "13",
         "name": "Pikachu",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/13"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/13",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            7
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Shell Retreat",
+                "effect": "As long as Squirtle has any Energy cards attached to it, damage done to Squirtle by an opponent’s attack is reduced by 10 (after applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Tackle",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-14",
         "localId": "14",
         "name": "Squirtle",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/14",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            252
+        ],
+        "hp": 40,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pound",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Shining Claws",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-15",
         "localId": "15",
         "name": "Treecko δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/15",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            202
+        ],
+        "hp": 80,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Nap",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Remove 2 damage counters from Wobbuffet.",
+                "damage": null
+            },
+            {
+                "name": "Expand",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "During your opponent’s next turn, any damage done to Wobbuffet is reduced by 20 (after applying Weakness and Resistance).",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-16",
         "localId": "16",
         "name": "Wobbuffet",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/16",
+        "boosters": null
     },
     {
+        "illustrator": "Hiromichi Sugiyama",
+        "rarity": "Ultra Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop4",
+            "name": "POP Series 4",
+            "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop4/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            386
+        ],
+        "hp": 110,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": "EX",
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Form Change",
+                "effect": "Once during your turn (before your attack), you may search your deck for another Deoxys ex and switch it with Deoxys ex. (Any cards attached to Deoxys ex, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys ex on top of your deck. Shuffle your deck afterward. You can’t use more than 1 Form Change Poké-Power each turn."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Fastwave",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "This attack’s damage isn’t affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop4-17",
         "localId": "17",
         "name": "Deoxys ex",
-        "image": "https://assets.tcgdex.net/en/pop/pop4/17"
+        "image": "https://assets.tcgdex.net/en/pop/pop4/17",
+        "boosters": null
     }
 ]

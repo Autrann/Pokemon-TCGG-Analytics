@@ -1,182 +1,1660 @@
 [
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-1",
         "localId": "1",
         "name": "Grass Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-2",
         "localId": "2",
         "name": "Grass Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-3",
         "localId": "3",
         "name": "Grass Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Kyoko Umemoto",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            661
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Peck",
+                "cost": null,
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Quick Attack",
+                "cost": null,
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-4",
         "localId": "4",
         "name": "Fletchling",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-5",
         "localId": "5",
         "name": "Grass Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            271
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Lotad",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-6",
         "localId": "6",
         "name": "Lombre",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            252
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-7",
         "localId": "7",
         "name": "Treecko",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-8",
         "localId": "8",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-9",
         "localId": "9",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-10",
         "localId": "10",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            270
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-11",
         "localId": "11",
         "name": "Lotad",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            465
+        ],
+        "hp": 130,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Tangela",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-12",
         "localId": "12",
         "name": "Tangrowth",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            114
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-13",
         "localId": "13",
         "name": "Tangela",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            380
+        ],
+        "hp": 100,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Psychic Sphere",
+                "cost": null,
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Psychic Prism",
+                "cost": null,
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "60+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-14",
         "localId": "14",
         "name": "Latias",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Heal 30 damage from 1 of your Pokémon.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-15",
         "localId": "15",
         "name": "Potion",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            283
+        ],
+        "hp": 50,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-16",
         "localId": "16",
         "name": "Surskit",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-17",
         "localId": "17",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            253
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Treecko",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-18",
         "localId": "18",
         "name": "Grovyle",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-19",
         "localId": "19",
         "name": "Grass Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-20",
         "localId": "20",
         "name": "Acro Bike",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            271
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Lotad",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-21",
         "localId": "21",
         "name": "Lombre",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-22",
         "localId": "22",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            270
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-23",
         "localId": "23",
         "name": "Lotad",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            252
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-24",
         "localId": "24",
         "name": "Treecko",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            465
+        ],
+        "hp": 130,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Tangela",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 4,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-25",
         "localId": "25",
         "name": "Tangrowth",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            114
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-26",
         "localId": "26",
         "name": "Tangela",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            253
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Treecko",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-27",
         "localId": "27",
         "name": "Grovyle",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": "Normal",
+        "regulationMark": null,
+        "legal": {
+            "standard": true,
+            "expanded": true
+        },
         "id": "tk-xy-latia-28",
         "localId": "28",
         "name": "Psychic Energy",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-29",
         "localId": "29",
         "name": "Acro Bike",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "tk-xy-latia",
+            "name": "XY trainer Kit (Latias)",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol",
+            "cardCount": {
+                "total": 30,
+                "official": 30
+            }
+        },
+        "dexId": [
+            380
+        ],
+        "hp": 100,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Psychic Sphere",
+                "cost": null,
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Psychic Prism",
+                "cost": null,
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "60+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "tk-xy-latia-30",
         "localId": "30",
         "name": "Latias",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

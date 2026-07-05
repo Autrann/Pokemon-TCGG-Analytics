@@ -1,38 +1,406 @@
 [
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xya",
+            "name": "Yellow A Alternate",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 6,
+                "official": 6
+            }
+        },
+        "dexId": [
+            310
+        ],
+        "hp": 210,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Manectric-ex",
+        "description": null,
+        "level": null,
+        "stage": "MEGA",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Turbo Bolt",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+                "damage": 110
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xya-24a",
         "localId": "24a",
         "name": "M Manectric-EX",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xya",
+            "name": "Yellow A Alternate",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 6,
+                "official": 6
+            }
+        },
+        "dexId": [
+            135
+        ],
+        "hp": 160,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": "EX",
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Swift",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": "This attack’s damage isn’t affected by Weakness, Resistance, or any other effects on your opponent’s Active Pokémon.",
+                "damage": 30
+            },
+            {
+                "name": "Flash Ray",
+                "cost": null,
+                "effect": "During your opponent’s next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+                "damage": "{L}{C}{C}"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xya-28a",
         "localId": "28a",
         "name": "Jolteon-EX",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xya",
+            "name": "Yellow A Alternate",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 6,
+                "official": 6
+            }
+        },
+        "dexId": [
+            718
+        ],
+        "hp": 190,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": "EX",
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Land’s Pulse",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "If there is any Stadium card in play, this attack does 20 more damage.",
+                "damage": "20+"
+            },
+            {
+                "name": "Cell Storm",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Heal 30 damage from this Pokémon.",
+                "damage": 60
+            },
+            {
+                "name": "Land's Wrath",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 100
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xya-54a",
         "localId": "54a",
         "name": "Zygarde-EX",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xya",
+            "name": "Yellow A Alternate",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 6,
+                "official": 6
+            }
+        },
+        "dexId": [
+            448
+        ],
+        "hp": 220,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": "Lucario-ex",
+        "description": null,
+        "level": null,
+        "stage": "MEGA",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rising Fist",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "effect": "Discard an Energy attached to your opponent’s Active Pokémon.",
+                "damage": 140
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xya-55a",
         "localId": "55a",
         "name": "M Lucario-EX",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Toyste Beach",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xya",
+            "name": "Yellow A Alternate",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 6,
+                "official": 6
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Look at the top 4 cards of your deck. You may reveal a Trainer card you find there (except for Trainers’ Mail) and put it into your hand. Shuffle the other cards back into your deck.",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xya-92a",
         "localId": "92a",
         "name": "Trainers’ Mail",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "xya",
+            "name": "Yellow A Alternate",
+            "logo": null,
+            "symbol": null,
+            "cardCount": {
+                "total": 6,
+                "official": 6
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Discard your hand and draw 7 cards.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "xya-107a",
         "localId": "107a",
         "name": "Professor Sycamore",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

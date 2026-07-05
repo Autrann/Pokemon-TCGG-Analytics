@@ -1,56 +1,658 @@
 [
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": true,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            125
+        ],
+        "hp": 70,
+        "types": null,
+        "evolveFrom": null,
+        "description": "Normally found near power plants, it can wander away and cause major blackouts in cities.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Thundershock",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            },
+            {
+                "name": "Thunderpunch",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, the attack does 30 damage and Electabuzz does 10 damage to itself.",
+                "damage": "30+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-1",
         "localId": "1",
         "name": "Electabuzz",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": true,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            107
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": "While seeming to do nothing, it fires punches in lightning-fast volleys that are impossible to see.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Jab",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Special Punch",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-2",
         "localId": "2",
         "name": "Hitmonchan",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Trainer",
+        "variants": {
+            "normal": false,
+            "reverse": true,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Shuffle your hand into your deck. Then, draw 7 cards. You can’t play any more Trainer cards this turn.",
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-3",
         "localId": "3",
         "name": "Professor Elm",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "K. Hoshiba",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            212
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Focus",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "During your next turn, Rocket’s Scizor’s Agility attack’s damage is doubled.",
+                "damage": null
+            },
+            {
+                "name": "Agility",
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, during your opponent’s next turn, prevent all effects of attacks, including damage, done to Rocket’s Scizor.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-4",
         "localId": "4",
         "name": "Rocket’s Scizor",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Katsura Tabata",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            215
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Entrap",
+                "cost": [
+                    "Darkness"
+                ],
+                "effect": "The Defending Pokémon can’t retreat during your opponent’s next turn.",
+                "damage": null
+            },
+            {
+                "name": "Continuous Scratch",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-5",
         "localId": "5",
         "name": "Rocket’s Sneasel",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shin-ichi Yoshida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            2
+        ],
+        "hp": 50,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Vine Pull",
+                "effect": "Once during your turn when Dark Ivysaur retreats, choose 1 of your opponent’s Benched Pokémon and switch it with his or her Active Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Fury Strikes",
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "effect": "Your opponent puts 3 markers onto his or her Pokémon (divided as he or she chooses). (More than 1 marker can be put on the same Pokémon.) Then, this attack does 10 damage to each Pokémon for each marker on it. Don’t apply Weakness and Resistance. Remove the markers at the end of the turn.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-6",
         "localId": "6",
         "name": "Dark Ivysaur",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shin-ichi Yoshida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            3
+        ],
+        "hp": 70,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Horrid Pollen",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Grass"
+                ],
+                "effect": "Flip 2 coins. If 1 is heads, the Defending Pokémon is now Asleep and Poisoned. If both are heads, the Defending Pokémon is now Confused and Poisoned. If both are tails, the Defending Pokémon is now Paralyzed and Poisoned.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-7",
         "localId": "7",
         "name": "Dark Venusaur",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Shin-ichi Yoshida",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": true,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            150
+        ],
+        "hp": 70,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Juxtapose",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Flip a coin. If heads, switch the number of damage counters on Rocket’s Mewtwo with the number of damage counters on the Defending Pokémon (even if it would Knock Out either Pokémon). (It’s okay if 1 of the Pokémon has no damage counters on it.)",
+                "damage": null
+            },
+            {
+                "name": "Hypnoblast",
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+                "damage": 20
+            },
+            {
+                "name": "Psyburn",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-8",
         "localId": "8",
         "name": "Rocket’s Mewtwo",
-        "image": null
+        "image": null,
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "None",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": true,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "bog",
+            "name": "Best of game",
+            "logo": null,
+            "symbol": "https://assets.tcgdex.net/univ/ecard/bog/symbol",
+            "cardCount": {
+                "total": 9,
+                "official": 9
+            }
+        },
+        "dexId": [
+            107
+        ],
+        "hp": 60,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Crosscounter",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "If an attack does damage to Rocket’s Hitmonchan during your opponent’s next turn (even if Rocket’s Hitmonchan is Knocked Out), flip a coin. If heads, Rocket’s Hitmonchan attacks your opponent’s Active Pokémon for double that amount of damage. (If Rocket’s Hitmonchan takes 20 damage, it does 40 damage to that Pokémon.)",
+                "damage": null
+            },
+            {
+                "name": "Magnum Punch",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "bog-9",
         "localId": "9",
         "name": "Rocket’s Hitmonchan",
-        "image": null
+        "image": null,
+        "boosters": null
     }
 ]

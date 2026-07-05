@@ -1,104 +1,1196 @@
 [
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            244
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Stomp",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+                "damage": "10+"
+            },
+            {
+                "name": "Fire Spin",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Discard 2 basic Energy cards attached to Entei or this attack does nothing.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-1",
         "localId": "1",
         "name": "Entei",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/1",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            18
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Pidgeotto",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Beating Wings",
+                "effect": "Once during your turn (before your attack), if Pidgeot is your Active Pokémon, you may shuffle 1 of your Benched Pokémon and all cards attached to it into your deck. This power can’t be used if Pidgeot is affected by a Special Condition."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Sharp Beak",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage.",
+                "damage": "20+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-2",
         "localId": "2",
         "name": "Pidgeot",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/2",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            243
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Roar",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any.",
+                "damage": null
+            },
+            {
+                "name": "Thunder",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, Raikou does 20 damage to itself.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-3",
         "localId": "3",
         "name": "Raikou",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/3",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            245
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Mirror Coat",
+                "effect": "If Suicune is Burned or Poisoned by an opponent’s attack (even if Suicune is Knocked Out), the Attacking Pokémon is now affected by the same Special Conditions (1 if there is only 1)."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Bubblebeam",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-4",
         "localId": "4",
         "name": "Suicune",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/4",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            128
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Rage",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage plus 10 more damage for each damage counter on Tauros.",
+                "damage": "10+"
+            },
+            {
+                "name": "Take Down",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Tauros does 10 damage to itself.",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-5",
         "localId": "5",
         "name": "Tauros",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/5",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            3
+        ],
+        "hp": 120,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Ivysaur",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Wide Solarbeam",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "Does 20 damage to 2 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 20
+            },
+            {
+                "name": "Hard Plant",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "Venusaur can’t use Hard Plant during your next turn.",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-6",
         "localId": "6",
         "name": "Venusaur",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/6",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            2
+        ],
+        "hp": 80,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Bulbasaur",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Poison Seed",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon is now Poisoned.",
+                "damage": null
+            },
+            {
+                "name": "Razor Leaf",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-7",
         "localId": "7",
         "name": "Ivysaur",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/7",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Choose 1 of your Pokémon in play (excluding Pokémon-ex). Return that Pokémon and all cards attached to it to your hand.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-8",
         "localId": "8",
         "name": "Mr. Briney’s Compassion",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/8",
+        "boosters": null
     },
     {
+        "illustrator": "\"Big Mama\" Tagawa",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Paralyzing Gaze",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon is now Paralyzed.",
+                "damage": null
+            }
+        ],
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Attach this card to 1 of your Pokémon in play. That Pokémon may use this card’s attack instead of its own. At the end of your turn, discard Multi Technical Machine 01.",
+        "trainerType": "Technical Machine",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-9",
         "localId": "9",
         "name": "Multi Technical Machine 01",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/9",
+        "boosters": null
     },
     {
+        "illustrator": "Kazuo Yazawa",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Once during each player’s turn, when that player attaches an Energy card from his or her hand to 1 of his or her Benched Pokémon, he or she removes 1 damage counter from that Pokémon.",
+        "trainerType": "Stadium",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-10",
         "localId": "10",
         "name": "Pokémon Park",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/10",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Draw 3 cards. Then discard any 1 card from your hand.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-11",
         "localId": "11",
         "name": "TV Reporter",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/11",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            1
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bite",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Razor Leaf",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-12",
         "localId": "12",
         "name": "Bulbasaur",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/12",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            331
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sand Attack",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "If the Defending Pokémon tries to attack during your opponent’s next turn, your opponent flips a coin. If tails, that attack does nothing.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-13",
         "localId": "13",
         "name": "Cacnea",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/13"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/13",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            370
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Paralyzing Kiss",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "If there are 2 Defending Pokémon in play, choose 1 of the Defending Pokémon. That Pokémon is now Paralyzed. (If there is only 1 Defending Pokémon, this attack does nothing.)",
+                "damage": null
+            },
+            {
+                "name": "Fast Stream",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Move 1 Energy card attached to the Defending Pokémon to the other Defending Pokémon. (Ignore this effect if your opponent has only 1 Defending Pokémon.)",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-14",
         "localId": "14",
         "name": "Luvdisc",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/14",
+        "boosters": null
     },
     {
+        "illustrator": "Tomokazu Komiya",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            231
+        ],
+        "hp": 50,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Double Spin",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+                "damage": "10×"
+            },
+            {
+                "name": "Body Slam",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-15",
         "localId": "15",
         "name": "Phanpy",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/15",
+        "boosters": null
     },
     {
+        "illustrator": "Yuka Morii",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 40,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Gnaw",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Thunder Jolt",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, Pikachu does 10 damage to itself.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-16",
         "localId": "16",
         "name": "Pikachu",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/16",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop2",
+            "name": "POP Series 2",
+            "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop2/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            251
+        ],
+        "hp": 80,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": "EX",
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Time Reversal",
+                "effect": "Once during your turn, when you put Celebi ex from your hand onto your Bench, you may search your discard pile for a card, show it to your opponent, and put it on top of your deck."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Psychic Shield",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "Prevent all effects of attacks, including damage, done to Celebi ex by your opponent’s Pokémon-ex during your opponent’s next turn.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop2-17",
         "localId": "17",
         "name": "Celebi ex",
-        "image": "https://assets.tcgdex.net/en/pop/pop2/17"
+        "image": "https://assets.tcgdex.net/en/pop/pop2/17",
+        "boosters": null
     }
 ]

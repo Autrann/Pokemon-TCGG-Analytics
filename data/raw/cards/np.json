@@ -1,242 +1,2987 @@
 [
     {
+        "illustrator": "Hiromichi Sugiyama",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            382
+        ],
+        "hp": 120,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Major Flood",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "effect": "Discard a Water Energy card attached to Kyogre ex. Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-1",
         "localId": "1",
         "name": "Kyogre ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/1"
+        "image": "https://assets.tcgdex.net/en/pop/np/1",
+        "boosters": null
     },
     {
+        "illustrator": "Kazuo Yazawa",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            383
+        ],
+        "hp": 120,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Major Earthquake",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "effect": "Discard a Fighting Energy card attached to Groudon ex. Does 10 damage to your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-2",
         "localId": "2",
         "name": "Groudon ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/2"
+        "image": "https://assets.tcgdex.net/en/pop/np/2",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            252
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tail Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Razor Leaf",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-3",
         "localId": "3",
         "name": "Treecko",
-        "image": "https://assets.tcgdex.net/en/pop/np/3"
+        "image": "https://assets.tcgdex.net/en/pop/np/3",
+        "boosters": null
     },
     {
+        "illustrator": "Midori Harada",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            253
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": "Treecko",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Poison Breath",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon is now Poisoned.",
+                "damage": null
+            },
+            {
+                "name": "Swift",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-4",
         "localId": "4",
         "name": "Grovyle",
-        "image": "https://assets.tcgdex.net/en/pop/np/4"
+        "image": "https://assets.tcgdex.net/en/pop/np/4",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            258
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pound",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-5",
         "localId": "5",
         "name": "Mudkip",
-        "image": "https://assets.tcgdex.net/en/pop/np/5"
+        "image": "https://assets.tcgdex.net/en/pop/np/5",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            255
+        ],
+        "hp": 40,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Peck",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Fireworks",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, discard a Fire Energy card attached to Torchic.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-6",
         "localId": "6",
         "name": "Torchic",
-        "image": "https://assets.tcgdex.net/en/pop/np/6"
+        "image": "https://assets.tcgdex.net/en/pop/np/6",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            252
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tail Slap",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Razor Leaf",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-7",
         "localId": "7",
         "name": "Treecko",
-        "image": "https://assets.tcgdex.net/en/pop/np/7"
+        "image": "https://assets.tcgdex.net/en/pop/np/7",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            255
+        ],
+        "hp": 40,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Peck",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Fireworks",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, discard a Fire Energy card attached to Torchic.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-8",
         "localId": "8",
         "name": "Torchic",
-        "image": "https://assets.tcgdex.net/en/pop/np/8"
+        "image": "https://assets.tcgdex.net/en/pop/np/8",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            256
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Torchic",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-9",
         "localId": "9",
         "name": "Combusken",
-        "image": "https://assets.tcgdex.net/en/pop/np/9"
+        "image": "https://assets.tcgdex.net/en/pop/np/9",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            258
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pound",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-10",
         "localId": "10",
         "name": "Mudkip",
-        "image": "https://assets.tcgdex.net/en/pop/np/10"
+        "image": "https://assets.tcgdex.net/en/pop/np/10",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            259
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Mudkip",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Bubble",
+                "cost": [
+                    "Water"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 10
+            },
+            {
+                "name": "Slash",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-11",
         "localId": "11",
         "name": "Marshtomp",
-        "image": "https://assets.tcgdex.net/en/pop/np/11"
+        "image": "https://assets.tcgdex.net/en/pop/np/11",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Agility",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn.",
+                "damage": null
+            },
+            {
+                "name": "Thundershock",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-12",
         "localId": "12",
         "name": "Pikachu",
-        "image": "https://assets.tcgdex.net/en/pop/np/12"
+        "image": "https://assets.tcgdex.net/en/pop/np/12",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            52
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Plunder",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage).",
+                "damage": 10
+            },
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-13",
         "localId": "13",
         "name": "Meowth",
-        "image": "https://assets.tcgdex.net/en/pop/np/13"
+        "image": "https://assets.tcgdex.net/en/pop/np/13",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            380
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Super Psy",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Searing Flame",
+                "cost": [
+                    "Fire",
+                    "Water"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Burned.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-14",
         "localId": "14",
         "name": "Latias",
-        "image": "https://assets.tcgdex.net/en/pop/np/14"
+        "image": "https://assets.tcgdex.net/en/pop/np/14",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            381
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Super Psy",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Freeze Dry",
+                "cost": [
+                    "Water",
+                    "Psychic",
+                    "Lightning"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-15",
         "localId": "15",
         "name": "Latios",
-        "image": "https://assets.tcgdex.net/en/pop/np/15"
+        "image": "https://assets.tcgdex.net/en/pop/np/15",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            252
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Pound",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Sporadic Sponging",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "Flip a coin. If heads, remove 1 damage counter from Treecko.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-16",
         "localId": "16",
         "name": "Treecko",
-        "image": "https://assets.tcgdex.net/en/pop/np/16"
+        "image": "https://assets.tcgdex.net/en/pop/np/16",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            255
+        ],
+        "hp": 50,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Ember",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Discard a Fire Energy card attached to Torchic.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-17",
         "localId": "17",
         "name": "Torchic",
-        "image": "https://assets.tcgdex.net/en/pop/np/17"
+        "image": "https://assets.tcgdex.net/en/pop/np/17",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            258
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Surf",
+                "cost": [
+                    "Water"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Whirlpool",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-18",
         "localId": "18",
         "name": "Mudkip",
-        "image": "https://assets.tcgdex.net/en/pop/np/18"
+        "image": "https://assets.tcgdex.net/en/pop/np/18",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            293
+        ],
+        "hp": 50,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Supersonic",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+                "damage": null
+            },
+            {
+                "name": "Pound",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-19",
         "localId": "19",
         "name": "Whismur",
-        "image": "https://assets.tcgdex.net/en/pop/np/19"
+        "image": "https://assets.tcgdex.net/en/pop/np/19",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            272
+        ],
+        "hp": 90,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": "Lombre",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Rain Dish",
+                "effect": "At any time between turns, remove 1 damage counter from Ludicolo."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Fury Swipes",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-20",
         "localId": "20",
         "name": "Ludicolo",
-        "image": "https://assets.tcgdex.net/en/pop/np/20"
+        "image": "https://assets.tcgdex.net/en/pop/np/20",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            385
+        ],
+        "hp": 50,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "The Third Eye",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Discard an Energy card attached to Jirachi and draw 3 cards.",
+                "damage": null
+            },
+            {
+                "name": "Psywave",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Does 10 damage times the amount of Energy attached to the Defending Pokémon.",
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-21",
         "localId": "21",
         "name": "Jirachi",
-        "image": "https://assets.tcgdex.net/en/pop/np/21"
+        "image": "https://assets.tcgdex.net/en/pop/np/21",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            374
+        ],
+        "hp": 50,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Magnetic Call",
+                "effect": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Metal Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Metal Charge",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": "Put 1 damage counter on Beldum.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-22",
         "localId": "22",
         "name": "Beldum",
-        "image": "https://assets.tcgdex.net/en/pop/np/22"
+        "image": "https://assets.tcgdex.net/en/pop/np/22",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            375
+        ],
+        "hp": 80,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": "Beldum",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Metal Load",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Search your discard pile for a Metal Energy card and attach it to Metang.",
+                "damage": null
+            },
+            {
+                "name": "Metal Claw",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-23",
         "localId": "23",
         "name": "Metang",
-        "image": "https://assets.tcgdex.net/en/pop/np/23"
+        "image": "https://assets.tcgdex.net/en/pop/np/23",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            358
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Resonate",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Your opponent switches each Defending Pokémon with his or her Benched Pokémon. If your opponent has only 1 Benched Pokémon, you choose the Defending Pokémon to switch.",
+                "damage": null
+            },
+            {
+                "name": "Healing Sound",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Remove 3 damage counters from each of your Active Pokémon. Each Defending Pokémon is now Asleep.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-24",
         "localId": "24",
         "name": "Chimecho",
-        "image": "https://assets.tcgdex.net/en/pop/np/24"
+        "image": "https://assets.tcgdex.net/en/pop/np/24",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            330
+        ],
+        "hp": 120,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": "Vibrava",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sand Pit",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "The Defending Pokémon can't retreat until the end of your opponent's next turn.",
+                "damage": 20
+            },
+            {
+                "name": "Dragonbreath",
+                "cost": [
+                    "Grass",
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing.",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-30"
+            },
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-25",
         "localId": "25",
         "name": "Flygon",
-        "image": "https://assets.tcgdex.net/en/pop/np/25"
+        "image": "https://assets.tcgdex.net/en/pop/np/25",
+        "boosters": null
     },
     {
+        "illustrator": "Sumiyoshi Kizuki",
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-26",
         "localId": "26",
         "name": "Tropical Wind",
-        "image": "https://assets.tcgdex.net/en/pop/np/26"
+        "image": "https://assets.tcgdex.net/en/pop/np/26",
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-27",
         "localId": "27",
         "name": "Tropical Tidal Wave",
-        "image": "https://assets.tcgdex.net/en/pop/np/27"
+        "image": "https://assets.tcgdex.net/en/pop/np/27",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": "Stadium",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-28",
         "localId": "28",
         "name": "Championship Arena",
-        "image": "https://assets.tcgdex.net/en/pop/np/28"
+        "image": "https://assets.tcgdex.net/en/pop/np/28",
+        "boosters": null
     },
     {
+        "illustrator": "Hajime Kusajima",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            251
+        ],
+        "hp": 50,
+        "types": [
+            "Grass"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Leaf Slice",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-29",
         "localId": "29",
         "name": "Celebi",
-        "image": "https://assets.tcgdex.net/en/pop/np/29"
+        "image": "https://assets.tcgdex.net/en/pop/np/29",
+        "boosters": null
     },
     {
+        "illustrator": "Atsuko Nishida",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            245
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Pure Body",
+                "effect": "Whenever you attach a Water Energy card from your hand to Suicune, discard an Energy card attached to Suicune. (You can't attach a Water Energy card from your hand if Suicune has no Energy cards attached.)"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Hypno Wave",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-30",
         "localId": "30",
         "name": "Suicune",
-        "image": "https://assets.tcgdex.net/en/pop/np/30"
+        "image": "https://assets.tcgdex.net/en/pop/np/30",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Ikuji",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            146
+        ],
+        "hp": 100,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Synchronized Lift",
+                "effect": "As long as you have Articuno ex and Zapdos ex in play, the Retreat Cost for Moltres ex is 0."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Flame Gift",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "You may move a Fire Energy card attached to Moltres ex to 1 of your Pokémon.",
+                "damage": 10
+            },
+            {
+                "name": "Scorching Wing",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Discard all Fire Energy attached to Moltres ex.",
+                "damage": 90
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-31",
         "localId": "31",
         "name": "Moltres ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/31"
+        "image": "https://assets.tcgdex.net/en/pop/np/31",
+        "boosters": null
     },
     {
+        "illustrator": "Nakaoka",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            144
+        ],
+        "hp": 100,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Synchronized Lift",
+                "effect": "As long as you have Zapdos ex and Moltres ex in play, the Retreat Cost for Articuno ex is 0."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Ice Gift",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "You may move a Water Energy card attached to Articuno ex to 1 of your Pokémon.",
+                "damage": 10
+            },
+            {
+                "name": "Freezing Wing",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-32",
         "localId": "32",
         "name": "Articuno ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/32"
+        "image": "https://assets.tcgdex.net/en/pop/np/32",
+        "boosters": null
     },
     {
+        "illustrator": "K. Hoshiba",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            145
+        ],
+        "hp": 100,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Synchronized Lift",
+                "effect": "As long as you have Articuno ex and Moltres ex in play, the Retreat Cost for Zapdos ex is 0."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Thunder Gift",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "You may move a Lightning Energy card attached to Zapdos ex to 1 of your Pokémon.",
+                "damage": 10
+            },
+            {
+                "name": "Lightning Wing",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-33",
         "localId": "33",
         "name": "Zapdos ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/33"
+        "image": "https://assets.tcgdex.net/en/pop/np/33",
+        "boosters": null
     },
     {
+        "illustrator": "Hajime Kusajima",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            157
+        ],
+        "hp": 110,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": "Quilava",
+        "description": null,
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Burning Aura",
+                "effect": "As long as Typhlosion is your Active Pokémon, put 1 damage counter on each Active Pokémon (both yours and your opponent's) between turns."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Flickering Flames",
+                "cost": [
+                    "Fire"
+                ],
+                "effect": "The Defending Pokémon is now Asleep.",
+                "damage": 20
+            },
+            {
+                "name": "Rage",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 50 damage plus 10 more damage for each damage counter on Typhlosion.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-34",
         "localId": "34",
         "name": "Typhlosion",
-        "image": "https://assets.tcgdex.net/en/pop/np/34"
+        "image": "https://assets.tcgdex.net/en/pop/np/34",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 40,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Thunder Wave",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": null
+            },
+            {
+                "name": "Iron Tail",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-35",
         "localId": "35",
         "name": "Pikachu δ",
-        "image": "https://assets.tcgdex.net/en/pop/np/35"
+        "image": "https://assets.tcgdex.net/en/pop/np/35",
+        "boosters": null
     },
     {
+        "illustrator": null,
+        "rarity": "Common",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-36",
         "localId": "36",
         "name": "Tropical Tidal Wave",
-        "image": "https://assets.tcgdex.net/en/pop/np/36"
+        "image": "https://assets.tcgdex.net/en/pop/np/36",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            382
+        ],
+        "hp": 100,
+        "types": [
+            "Water"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Frenzy",
+                "effect": "As long as your opponent has Groudon, Groudon ex, Rayquaza, or Rayquaza ex in play, Kyogre ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Aqua Supply",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "You may attach a basic Energy card from your hand to 1 of your Pokémon.",
+                "damage": 30
+            },
+            {
+                "name": "Tsunami",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-37",
         "localId": "37",
         "name": "Kyogre ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/37"
+        "image": "https://assets.tcgdex.net/en/pop/np/37",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            383
+        ],
+        "hp": 100,
+        "types": [
+            "Fighting"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Frenzy",
+                "effect": "As long as your opponent has Kyogre, Kyogre ex, Rayquaza, or Rayquaza ex in play, Groudon ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Mix-Up",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, your opponent discards the top card from his or her deck.",
+                "damage": 30
+            },
+            {
+                "name": "Earthquake",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-38",
         "localId": "38",
         "name": "Groudon ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/38"
+        "image": "https://assets.tcgdex.net/en/pop/np/38",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            384
+        ],
+        "hp": 100,
+        "types": [
+            "Colorless"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Frenzy",
+                "effect": "As long as your opponent has Kyogre, Kyogre ex, Groudon, or Groudon ex in play, Rayquaza ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Dragon Bind",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Twister",
+                "cost": [
+                    "Fire",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-30"
+            },
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-39",
         "localId": "39",
         "name": "Rayquaza ex",
-        "image": "https://assets.tcgdex.net/en/pop/np/39"
+        "image": "https://assets.tcgdex.net/en/pop/np/39",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "np",
+            "name": "Nintendo Black Star Promos",
+            "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/np/symbol",
+            "cardCount": {
+                "total": 40,
+                "official": 40
+            }
+        },
+        "dexId": [
+            151
+        ],
+        "hp": 50,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Psywave",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage times the amount of Energy attached to the Defending Pokémon.",
+                "damage": 10
+            },
+            {
+                "name": "Devolution Beam",
+                "cost": [
+                    "Psychic"
+                ],
+                "effect": "Flip a coin. If heads, choose 1 of either player's Evolved Pokémon, remove the highest Stage Evolution card from that Pokémon, and put it into that player's hand.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": null,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "np-40",
         "localId": "40",
         "name": "Mew",
-        "image": "https://assets.tcgdex.net/en/pop/np/40"
+        "image": "https://assets.tcgdex.net/en/pop/np/40",
+        "boosters": null
     }
 ]

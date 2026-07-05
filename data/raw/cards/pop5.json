@@ -1,104 +1,1164 @@
 [
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            250
+        ],
+        "hp": 80,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Fire Wing",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Fire Blast",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "effect": "Discard a Fire Energy attached to Ho-Oh.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-1",
         "localId": "1",
         "name": "Ho-Oh",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/1"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/1",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            249
+        ],
+        "hp": 80,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Super Psy Bolt",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Aerowing",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Before doing damage, you may flip a coin. If tails, this attack does nothing. If heads, this attack does 60 damage instead.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-2",
         "localId": "2",
         "name": "Lugia",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/2"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/2",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            151
+        ],
+        "hp": 60,
+        "types": [
+            "Fire"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Copy",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Choose 1 of the Defending Pokémon’s attacks. Copy copies that attack. This attack does nothing if Mew doesn’t have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew performs that attack.",
+                "damage": null
+            },
+            {
+                "name": "Extra Draw",
+                "cost": [
+                    "Fire"
+                ],
+                "effect": "If your opponent has any Pokémon-ex in play, search your deck for up to 2 basic Energy cards and attach them to Mew. Shuffle your deck afterward.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-3",
         "localId": "3",
         "name": "Mew δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/3"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/3",
+        "boosters": null
     },
     {
+        "illustrator": "Takumi Akabane",
+        "rarity": "Rare",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Has no effect other than providing Energy.) Damage done to your opponent’s Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (before applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy.",
+        "trainerType": null,
+        "energyType": "Special",
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-4",
         "localId": "4",
         "name": "Double Rainbow Energy",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/4"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/4",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Uncommon",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            5
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Charmander",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Slash",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Thunder Jolt",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If tails, Charmeleon does 10 damage to itself.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-5",
         "localId": "5",
         "name": "Charmeleon δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/5"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/5",
+        "boosters": null
     },
     {
+        "illustrator": "Ken Sugimori",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "If you have any cards in your hand, shuffle 1 of them into your deck, then draw 3 cards.",
+        "trainerType": "Supporter",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-6",
         "localId": "6",
         "name": "Bill’s Maintenance",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/6"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/6",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Uncommon",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-7",
         "localId": "7",
         "name": "Rare Candy",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/7"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/7",
+        "boosters": null
     },
     {
+        "illustrator": "Shin-ichi Yoshikawa",
+        "rarity": "Uncommon",
+        "category": "Energy",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides ColorlessColorlessColorless Energy. The Pokémon Boost Energy is attached to can’t retreat. If the Pokémon Boost Energy is attached to isn’t an Evolved Pokémon, discard Boost Energy.",
+        "trainerType": null,
+        "energyType": "Special",
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-8",
         "localId": "8",
         "name": "Boost Energy",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/8"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/8",
+        "boosters": null
     },
     {
+        "illustrator": "Takumi Akabane",
+        "rarity": "Uncommon",
+        "category": "Energy",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "δ Rainbow Energy provides Colorless Energy. While attached to a Pokémon that has δ on its card, δ Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)",
+        "trainerType": null,
+        "energyType": "Special",
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-9",
         "localId": "9",
         "name": "δ Rainbow Energy",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/9"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/9",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            4
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Bite",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-10",
         "localId": "10",
         "name": "Charmander δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/10"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/10",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            52
+        ],
+        "hp": 40,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Feint Attack",
+                "cost": [
+                    "Darkness"
+                ],
+                "effect": "Choose 1 of your opponent’s Pokémon. This attack does 10 damage to that Pokémon. This attack’s damage isn’t affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-11",
         "localId": "11",
         "name": "Meowth δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/11"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/11",
+        "boosters": null
     },
     {
+        "illustrator": "Naoyo Kimura",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Lightning Ball",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Thunderbolt",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Discard all Energy cards attached to Pikachu.",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-12",
         "localId": "12",
         "name": "Pikachu",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/12"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/12",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            25
+        ],
+        "hp": 40,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Electric Punch",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Heavy Metal",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin for each Metal Energy attached to Pikachu. This attack does 10 damage plus 20 more damage for each heads.",
+                "damage": "10+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-13",
         "localId": "13",
         "name": "Pikachu δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/13"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/13",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            279
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "evolveFrom": "Wingull",
+        "description": null,
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-BODY",
+                "name": "Mist",
+                "effect": "Any damage done to Pelipper by attacks from Stage 2 Evolved Pokémon (both yours and your opponent’s) is reduced by 30 (after applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Lightning Wing",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to 1 of your Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreat": 0,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-14",
         "localId": "14",
         "name": "Pelipper δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/14"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/14",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": true,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            335
+        ],
+        "hp": 70,
+        "types": [
+            "Metal"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Detect",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Zangoose during your opponent’s next turn.",
+                "damage": null
+            },
+            {
+                "name": "Metal Claw",
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-15",
         "localId": "15",
         "name": "Zangoose δ",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/15"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/15",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Ultra Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            196
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Purple Ray",
+                "effect": "Once during your turn, when you put Espeon Star from your hand onto your Bench, you may use this power. Each Active Pokémon (both yours and your opponent’s) is now Confused."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Psychic Boom",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "effect": "Does 30 damage plus 10 more damage for each Energy attached to the Defending Pokémon.",
+                "damage": "30+"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": null
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-16",
         "localId": "16",
         "name": "Espeon ★",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/16"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/16",
+        "boosters": null
     },
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Ultra Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": false,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "pop5",
+            "name": "POP Series 5",
+            "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+            "symbol": "https://assets.tcgdex.net/univ/pop/pop5/symbol",
+            "cardCount": {
+                "total": 17,
+                "official": 17
+            }
+        },
+        "dexId": [
+            197
+        ],
+        "hp": 70,
+        "types": [
+            "Darkness"
+        ],
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Poke-POWER",
+                "name": "Dark Ray",
+                "effect": "Once during your turn, when you put Umbreon Star from your hand onto your Bench, you may choose 1 card from your opponent’s hand without looking and discard it."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Feint Attack",
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "effect": "Choose 1 of your opponent’s Pokémon. This attack does 30 damage to that Pokémon. This attack’s damage isn’t affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.",
+                "damage": null
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": null
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-30"
+            }
+        ],
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": false
+        },
         "id": "pop5-17",
         "localId": "17",
         "name": "Umbreon ★",
-        "image": "https://assets.tcgdex.net/en/pop/pop5/17"
+        "image": "https://assets.tcgdex.net/en/pop/pop5/17",
+        "boosters": null
     }
 ]

@@ -1,128 +1,1519 @@
 [
     {
+        "illustrator": "Masakazu Fukuda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            147
+        ],
+        "hp": 40,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Wrap",
+                "cost": [
+                    "Grass",
+                    "Lightning"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-1",
         "localId": "1",
         "name": "Dratini",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/1"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/1",
+        "boosters": null
     },
     {
+        "illustrator": "Naoki Saito",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            147
+        ],
+        "hp": 40,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Hypnotic Gaze",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "The Defending Pokémon is now Asleep.",
+                "damage": null
+            },
+            {
+                "name": "Tail Whap",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-2",
         "localId": "2",
         "name": "Dratini",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/2"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/2",
+        "boosters": null
     },
     {
+        "illustrator": "Hajime Kusajima",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            148
+        ],
+        "hp": 70,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Dratini",
+        "description": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tail Whap",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Dragon Pulse",
+                "cost": [
+                    "Grass",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Discard the top card of your deck.",
+                "damage": 70
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-3",
         "localId": "3",
         "name": "Dragonair",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/3"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/3",
+        "boosters": null
     },
     {
+        "illustrator": "Kagemaru Himeno",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            148
+        ],
+        "hp": 70,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Dratini",
+        "description": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Healing Melody",
+                "cost": [
+                    "Grass"
+                ],
+                "effect": "Heal 10 damage from each of your Pokémon.",
+                "damage": null
+            },
+            {
+                "name": "Slam",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-4",
         "localId": "4",
         "name": "Dragonair",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/4"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/4",
+        "boosters": null
     },
     {
+        "illustrator": "Mitsuhiro Arita",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            149
+        ],
+        "hp": 150,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Dragonair",
+        "description": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Hyper Beam",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+                "damage": 50
+            },
+            {
+                "name": "Hurricane Tail",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip 4 coins. This attack does 60 damage times the number of heads.",
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-5",
         "localId": "5",
         "name": "Dragonite",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/5"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/5",
+        "boosters": null
     },
     {
+        "illustrator": "Kouki Saitou",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            371
+        ],
+        "hp": 50,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Headbutt",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 10
+            },
+            {
+                "name": "Dragon Claw",
+                "cost": [
+                    "Fire",
+                    "Water"
+                ],
+                "effect": null,
+                "damage": 20
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-6",
         "localId": "6",
         "name": "Bagon",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/6"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/6",
+        "boosters": null
     },
     {
+        "illustrator": "Akira Komayama",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            372
+        ],
+        "hp": 80,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Bagon",
+        "description": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Knock Away",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": 10
+            },
+            {
+                "name": "Rollout",
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 50
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-7",
         "localId": "7",
         "name": "Shelgon",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/7"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/7",
+        "boosters": null
     },
     {
+        "illustrator": "BERUBURI",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            373
+        ],
+        "hp": 140,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Shelgon",
+        "description": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Scornful Storm",
+                "effect": "Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Shred",
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+                "damage": 90
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-8",
         "localId": "8",
         "name": "Salamence",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/8"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/8",
+        "boosters": null
     },
     {
+        "illustrator": "Hideaki Hakozaki",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            380
+        ],
+        "hp": 100,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "Its body is covered in a down that can refract light in such a way that it becomes invisible.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Energy Assist",
+                "cost": [
+                    "Colorless"
+                ],
+                "effect": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+                "damage": null
+            },
+            {
+                "name": "Sky Heal",
+                "cost": [
+                    "Fire",
+                    "Psychic"
+                ],
+                "effect": "If Latios is on your Bench, heal 20 damage from this Pokémon.",
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-9",
         "localId": "9",
         "name": "Latias",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/9"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/9",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            381
+        ],
+        "hp": 100,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Sky Blade",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "If Latias is on your Bench, this attack does 20 more damage.",
+                "damage": 20
+            },
+            {
+                "name": "Speed Wing",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-10",
         "localId": "10",
         "name": "Latios",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/10"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/10",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            384
+        ],
+        "hp": 120,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Dragon Pulse",
+                "cost": [
+                    "Lightning"
+                ],
+                "effect": "Discard the top 2 cards of your deck.",
+                "damage": 40
+            },
+            {
+                "name": "Shred",
+                "cost": [
+                    "Fire",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "effect": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+                "damage": 90
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 3,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-11",
         "localId": "11",
         "name": "Rayquaza",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/11"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/11",
+        "boosters": null
     },
     {
+        "illustrator": "Mizue",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            610
+        ],
+        "hp": 40,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Signs of Evolution",
+                "cost": [
+                    "Fighting"
+                ],
+                "effect": "Flip a coin. If heads, search your deck for Fraxure, reveal it, and put it into your hand. Shuffle your deck afterward.",
+                "damage": null
+            },
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Metal"
+                ],
+                "effect": null,
+                "damage": 10
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-12",
         "localId": "12",
         "name": "Axew",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/12"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/12",
+        "boosters": null
     },
     {
+        "illustrator": "TOKIYA",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            610
+        ],
+        "hp": 50,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Lunge",
+                "cost": [
+                    "Fighting",
+                    "Metal"
+                ],
+                "effect": "Flip a coin. If tails, this attack does nothing.",
+                "damage": 30
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-13",
         "localId": "13",
         "name": "Axew",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/13"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/13",
+        "boosters": null
     },
     {
+        "illustrator": "Shin Nagasawa",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            611
+        ],
+        "hp": 70,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Axew",
+        "description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Grit",
+                "effect": "If this Pokémon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Dragon Claw",
+                "cost": [
+                    "Fighting",
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 60
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 1,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-14",
         "localId": "14",
         "name": "Fraxure",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/14"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/14",
+        "boosters": null
     },
     {
+        "illustrator": "match",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            611
+        ],
+        "hp": 80,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Axew",
+        "description": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+        "level": null,
+        "stage": "Stage1",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Scratch",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 20
+            },
+            {
+                "name": "Sharp Fang",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 40
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-15",
         "localId": "15",
         "name": "Fraxure",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/15"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/15",
+        "boosters": null
     },
     {
+        "illustrator": "Eske Yoshinob",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            612
+        ],
+        "hp": 140,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": "Fraxure",
+        "description": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+        "level": null,
+        "stage": "Stage2",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Axe Slugger",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "If the Defending Pokémon is a Colorless Pokémon, this attack does 60 more damage.",
+                "damage": 60
+            },
+            {
+                "name": "Dragon Pulse",
+                "cost": [
+                    "Fighting",
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Discard the top card of your deck.",
+                "damage": 100
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-16",
         "localId": "16",
         "name": "Haxorus",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/16"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/16",
+        "boosters": null
     },
     {
+        "illustrator": "kawayoo",
+        "rarity": "Rare",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            621
+        ],
+        "hp": 110,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Tight Jaw",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+                "damage": 20
+            },
+            {
+                "name": "Dragon Tail",
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "effect": "Flip 2 coins. This attack does 80 damage times the number of heads.",
+                "damage": 80
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-17",
         "localId": "17",
         "name": "Druddigon",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/17"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/17",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Rare",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. When your Active Pokémon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card that was attached to that Pokémon to the Pokémon this card is attached to. You may play as many Item cards as you like during your turn (before your attack).",
+        "trainerType": "Tool",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-18",
         "localId": "18",
         "name": "Exp. Share",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/18"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/18",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Rare",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Before you flip a coin to decide who goes first in a game, you may play this card. Don't flip that coin, and you go first. If both players play First Ticket, flip the coin as normal. (You may play only 1 First Ticket before you flip that coin.) You may play as many Item cards as you like during your turn (before your attack).",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-19",
         "localId": "19",
         "name": "First Ticket",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/19"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/19",
+        "boosters": null
     },
     {
+        "illustrator": "5ban Graphics",
+        "rarity": "Rare",
+        "category": "Trainer",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": null,
+        "hp": null,
+        "types": null,
+        "evolveFrom": null,
+        "description": null,
+        "level": null,
+        "stage": null,
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": null,
+        "weaknesses": null,
+        "resistances": null,
+        "retreat": null,
+        "effect": "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile back into your deck. You may play as many Item cards as you like during your turn (before your attack).",
+        "trainerType": "Item",
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-20",
         "localId": "20",
         "name": "Super Rod",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/20"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/20",
+        "boosters": null
     },
     {
+        "illustrator": "Ryo Ueda",
+        "rarity": "Common",
+        "category": "Pokemon",
+        "variants": {
+            "normal": true,
+            "reverse": false,
+            "holo": false,
+            "firstEdition": false,
+            "wPromo": false
+        },
+        "set": {
+            "id": "dv1",
+            "name": "Dragon Vault",
+            "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+            "symbol": "https://assets.tcgdex.net/univ/bw/dv1/symbol",
+            "cardCount": {
+                "total": 21,
+                "official": 20
+            }
+        },
+        "dexId": [
+            646
+        ],
+        "hp": 130,
+        "types": [
+            "Dragon"
+        ],
+        "evolveFrom": null,
+        "description": "It can produce ultracold air. Its body is frozen.",
+        "level": null,
+        "stage": "Basic",
+        "suffix": null,
+        "item": null,
+        "abilities": null,
+        "attacks": [
+            {
+                "name": "Dragon Claw",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": null,
+                "damage": 60
+            },
+            {
+                "name": "Blizzard",
+                "cost": [
+                    "Water",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "effect": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "damage": 90
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Dragon",
+                "value": "×2"
+            }
+        ],
+        "resistances": null,
+        "retreat": 2,
+        "effect": null,
+        "trainerType": null,
+        "energyType": null,
+        "regulationMark": null,
+        "legal": {
+            "standard": false,
+            "expanded": true
+        },
         "id": "dv1-21",
         "localId": "21",
         "name": "Kyurem",
-        "image": "https://assets.tcgdex.net/en/bw/dv1/21"
+        "image": "https://assets.tcgdex.net/en/bw/dv1/21",
+        "boosters": null
     }
 ]
